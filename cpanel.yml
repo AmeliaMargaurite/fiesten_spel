@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - ROOT=/home/amelkyau/test-backend.amdesigned.nl
-    - /bin/cp -R /out $ROOT
+    - /bin/cp -R out/. $ROOT
