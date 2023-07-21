@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - ROOT=/home/amelkyau/repositories/fietsen_spel
+    - /bin/cp -R /out $ROOT
