@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - ROOT=/home/amelkyau/repositories/fietsen_spel
+    - ROOT=/home/amelkyau/test-backend.amdesigned.nl
     - /bin/cp -R /out $ROOT
