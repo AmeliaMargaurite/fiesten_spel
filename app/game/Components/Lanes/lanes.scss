@@ -1,0 +1,41 @@
+.lanes {
+	--gap: 0.8rem;
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-template-rows: auto 1em;
+	justify-items: center;
+	height: 100%;
+	grid-row: 1/-1;
+	grid-column: 1/-1;
+	grid-gap: var(--gap);
+	.lane {
+		display: grid;
+		grid-template-rows: max-content auto;
+		width: 100%;
+		text-align: center;
+	}
+
+	.letters {
+		--letter-height: 10vh;
+		display: grid;
+		grid-template-rows: repeat(10, var(--letter-height));
+		column-gap: var(--gap);
+		grid-auto-rows: var(--letter-height);
+
+		.letter {
+			display: grid;
+			justify-content: center;
+			align-items: center;
+			border-radius: 0.8rem;
+
+			&:nth-child(9) {
+				background: pink;
+			}
+			&:not(:empty) {
+				border: 1px solid hsl(var(--base-h), 20%, 70%);
+				text-transform: uppercase;
+				background: hsl(var(--base-h), 30%, 80%);
+			}
+		}
+	}
+}

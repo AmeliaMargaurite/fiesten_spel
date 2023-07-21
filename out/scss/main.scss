@@ -1,0 +1,14 @@
+@import "./resets";
+@import "./variables";
+@import "./icons";
+@import "./header";
+@import "./footer";
+
+body {
+	display: grid;
+	grid-template-rows: max-content auto max-content;
+	background: hsl(var(--main-background-color));
+	color: hsl(var(--main-text-color));
+	max-height: 100vh;
+	overflow: hidden;
+}

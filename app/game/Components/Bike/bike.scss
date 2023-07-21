@@ -1,0 +1,10 @@
+.bike {
+	--bike-size: 4.8rem;
+	align-self: flex-end;
+	justify-self: center;
+	width: var(--bike-size);
+	height: var(--bike-size);
+	grid-column: 3;
+	grid-row: 1;
+	margin-bottom: calc(var(--bike-size) / 2);
+}

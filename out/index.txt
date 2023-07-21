@@ -1,0 +1,7 @@
+1:HL["/_next/static/css/a0afb10704309f82.css",{"as":"style"}]
+0:["nn3dmu8ZZk6ldnABq8t5p",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a0afb10704309f82.css","precedence":"next"}]],"$L3"]]]]
+4:I{"id":3466,"chunks":["272:static/chunks/webpack-50f67b5f9c349948.js","253:static/chunks/bce60fc1-b4fcea2e2649fae2.js","961:static/chunks/961-0050802e54dc82cb.js"],"name":"default","async":false}
+5:I{"id":372,"chunks":["272:static/chunks/webpack-50f67b5f9c349948.js","253:static/chunks/bce60fc1-b4fcea2e2649fae2.js","961:static/chunks/961-0050802e54dc82cb.js"],"name":"default","async":false}
+6:I{"id":4896,"chunks":["896:static/chunks/896-422176aad0e1a5de.js","931:static/chunks/app/page-767dfbac0a510d0c.js"],"name":"","async":false}
+2:[["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","header",null,{"children":"Head"}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","loading":"$undefined","loadingStyles":"$undefined","hasLoading":false,"template":["$","$L5",null,{}],"templateStyles":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","childProp":{"current":[["$","section",null,{"children":["$","$L6",null,{"href":"/game","children":"Game"}]}],null],"segment":"__PAGE__"},"styles":[]}]]}]}],null]
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]

@@ -1,0 +1,1084 @@
+Fiction_0001	blik	noun, de(m)	look	Ze wendde haar blik af en roerde in het lege kopje.	She averted her gaze and stirred in the empty cup.	8.45	
+Fiction_0002	schouder	noun, de(m)	shoulder	Ik sloeg mijn armen om haar schouders en drukte haar hoofd tegen mijn borst.	I wrapped my arms around her shoulders and pressed her head against my chest.	7.32	
+Fiction_0003	raam	noun, het	window	Hij keek uit het raam naar de lege straat.	He looked out the window at the empty street.	8.26	
+Fiction_0004	zwijgen	verb	to keep silent about	We zwegen omdat het voor niemand zin had het rond te vertellen.	"We kept silent because it didn't make sense for anyone to tell around."	7.31	
+Fiction_0005	stoel	noun, de(m)	chair	In de huiskamer waren de stoelen tegen de muur gezet.	In the living room, the chairs had been placed against the wall.	7.27	
+Fiction_0006	glas	noun, het	glass	Viktor schonk een glas bronwater in.	Viktor poured a glass of spring water.	7.93	
+Fiction_0007	knikken	verb	to nod	Ik knik tevreden en ga op de rand van het bed zitten.	I nod in satisfaction and sit on the edge of the bed.	3.72	
+Fiction_0008	plotseling	adj	sudden	Henk leed onder het plotselinge verlies van zijn enige broer.	Henk suffered the sudden loss of his only brother.	5.59	
+Fiction_0009	schudden	verb	to shake	De boom schudde in de wind.	The tree shook in the wind.	5.12	
+Fiction_0010	verder	adv	further	Na die aankoop ging ik verder de stad in om ergens een kop koffie te drinken.	After that purchase, I continued into town to have a cup of coffee somewhere.	5.52	
+Fiction_0011	buigen (zich)	verb	to bend	Hij boog zich en keek onder de tafel.	He bent down and looked under the table.	5.72	
+Fiction_0012	meneer	noun, de(m)	Mr	Meneer De Bruin liep rustig over straat.	Mr. De Bruin walked quietly down the street.	6.58	
+Fiction_0013	glimlachen	verb	to smile	Frederick wachtte een tel en glimlachte naar zijn fans.	Frederick waited a beat and smiled at his fans.	3.25	
+Fiction_0014	trap	noun, de(m)	stairs	Hij klimt de trap op en loopt door de kamer boven.	He climbs the stairs and walks through the upstairs room.	7.03	
+Fiction_0015	lip	noun, de	lip	Hij bijt op zijn lip en gaat met zijn hand door zijn haar.	He bites his lip and goes through his hair with his hand.	3.63	
+Fiction_0016	ogenblik	noun, het	moment	Op dat ogenblik werd de keukendeur geopend.	At that moment, the kitchen door was opened.	6.66	
+Fiction_0017	middag	noun, de(m)	afternoon	Aan het eind van de middag werd hij wakker.	At the end of the afternoon, he woke up.	6.41	
+Fiction_0018	keuken	noun, de	kitchen	De keukens van de huizen hebben een deur naar de woonkamer met de twee ramen.	The kitchens of the houses have a door to the living room with the two windows.	6.39	
+Fiction_0019	schrikken	verb	to be frightened	Ik schrok toen ik zag hoe hij eraan toe was.	I was shocked to see how he was doing.	6.67	
+Fiction_0020	koffie	noun, de(m)	coffee	Enno beloofde dat hij koffie zou zetten.	Enno promised to make coffee.	6.03	
+Fiction_0021	borst	noun, de	chest	Grootvader droeg een groot kruis op zijn borst.	Grandfather wore a large cross on his chest.	5.23	
+Fiction_0022	omhoog	adv	up	Ze kijkt omhoog naar de lucht alsof ze die voor het eerst ziet.	She looks up at the sky as if seeing it for the first time.	6.58	
+Fiction_0023	stilte	noun, de(f)	silence	Er heerste een volkomen stilte.	There was a complete silence.	4.62	
+Fiction_0024	staren	verb	to stare	Jonas staarde naar de palm.	Jonas stared at the palm.	2.81	
+Fiction_0025	huilen	verb	to cry	Tijdens de begrafenis huilde mijn moeder aan een stuk door.	During the funeral, my mother cried at a stretch.	5.06	
+Fiction_0026	duwen	verb	to push	lemand duwde haar vingers tegen een massa vettige inkt.	lemand pressed her fingers against a mass of greasy ink.	6.51	
+Fiction_0027	voorzichtig	adj	careful	Ik naderde de boerderij met voorzichtige stappen en angst in het hart.	I approached the farm with cautious steps and fear in my heart.	6.15	
+Fiction_0028	fluisteren	verb	to whisper	Wat ben je mooi, fluistert hij.	How beautiful you are, he whispers.	2.62	
+Fiction_0029	knie	noun, de	knee	Binnen de kortste keren zaten we tot halfweg onze knieën in de modder.	In no time at all, we were up to our knees in mud.	5.89	
+Fiction_0030	gauw	adv	soon, quickly	Ik kon het al heel gauw met iedereen goed vinden.	I got along very quickly with everyone.	5.40	
+Fiction_0031	ach	interj	oh	Ach, het doet er niet toe.	"Oh well, it doesn't matter."	6.80	
+Fiction_0032	grijs	adj	grey	Ze ontdekte een twintigtal grijze haren.	She discovered about twenty gray hairs.	5.02	
+Fiction_0033	glijden	verb	to slide	Ama laat zand door haar vingers glijden.	Ama lets sand slide through her fingers.	2.92	
+Fiction_0034	jas	noun, de	coat	De jas bood in elk geval bescherming tegen de kou.	At least the coat offered protection from the cold.	3.28	
+Fiction_0035	schreeuwen	verb	to shout	Toen werd ze woest en ze schreeuwde dat er belangrijker dingen in het leven waren.	Then she became furious and she shouted that there were more important things in life.	4.49	
+Fiction_0036	werpen	verb	to throw	Twee lampjes wierpen licht op het donkerbruine blad.	Two lights cast light on the dark brown leaf.	5.62	
+Fiction_0037	mevrouw	noun, de(f)	madam	Uw man heeft volkomen gelijk, mevrouw.	"Your husband is absolutely right, ma'am."	5.10	
+Fiction_0038	haast	adv	almost	Ze kijkt me haast verontschuldigend aan.	She looks at me almost apologetically.	6.42	
+Fiction_0039	slaap	noun, de(m)	sleep	De jongen draaide zich om in zijn slaap.	The boy turned over in his sleep.	4.55	
+Fiction_0040	adem	noun, de(m)	breat	Op straat was het ijskoud en mijn adem wolkte door de lucht.	On the street it was freezing cold and my breath clouded through the air.	3.92	
+Fiction_0041	wind	noun, de(m)	wind	De wind waait uit het westen.	The wind blows from the west.	7.64	
+Fiction_0042	vriendelijk	adj	friendly	Ik keek in het vriendelijke gezicht van mijn lerares.	I looked into the friendly face of my teacher.	5.77	
+Fiction_0043	traan	noun, de	tear	Ze droogde de opgekomen tranen met de punt van haar schort.	She dried the risen tears with the tip of her apron.	4.18	
+Fiction_0044	wang	noun, de	cheek	Ik voelde mijn wangen gloeien.	I felt my cheeks glow.	2.30	
+Fiction_0045	buik	noun, de(m)	belly	Ze lachen dat hun buik ervan schudt.	They laugh that their bellies are shaking.	5.05	
+Fiction_0046	fles	noun, de	bottle	Hij pakte een fies cola uit de koelkast.	He grabbed a fies cola from the fridge.	5.70	
+Fiction_0047	broek	noun, de	trousers	Ik droeg een wijde witte broek.	I was wearing wide white pants.	4.72	
+Fiction_0048	telefoon	noun, de(m)	telephone	Ze voelde de telefoon overgaan in de zak van haar kimono.	She felt the phone ring in the pocket of her kimono.	7.07	
+Fiction_0049	schoen	noun, de(m)	shoe	Ze schopt haar schoenen uit en gaat op mijn bed zitten.	She kicks off her shoes and sits on my bed.	6.34	
+Fiction_0050	dringen	verb	to push	De honden stonden kwijlend om hun gevulde bakken te dringen. de tijd dringt: Ik ga me haasten, de tijd dringt.	"The dogs were drooling for their filled bins. time is running out: I'm going to hurry, time is running out."	8.75	
+Fiction_0051	herinnering	noun, de(f)	memory	Een herinnering van meer dan tien jaar geleden kwam omhoog.	A memory from over a decade ago came up.	5.96	
+Fiction_0052	bruin	adj	brown	Een bruine kever liep tussen de gouden haartjes op mijn arm.	A brown beetle ran between the golden hairs on my arm.	4.64	
+Fiction_0053	kruipen	verb	to crawl	De spin kroop over de muur.	The spider crawled over the wall.	5.69	
+Fiction_0054	gebaar	noun, het	gesture	Ze maakte met haar hand het gebaar dat hij een beetje op moest schieten.	She gestured with her hand for him to hurry up a bit.	2.77	
+Fiction_0055	hemel	noun, de(m)	sky	De hemel boven me was blauw.	The sky above me was blue.	4.54	
+Fiction_0056	steen	noun, de(m)	stone	Moeder zat op haar knieën op de blauwe stenen van het plaatsje.	Mother was on her knees on the blue stones of the place.	5.69	
+Fiction_0057	vloer	noun, de(m)	floor	Ze zag hem in de hoek van de kamer bezig de plank uit de vloer te trekken.	She saw him in the corner of the room busy pulling the shelf out of the floor.	5.67	
+Fiction_0058	lijf	noun, het	body	Ik rukte het kledingstuk van haar lijf.	I yanked the garment off her body.	6.26	
+Fiction_0059	rennen	verb	to run	Hij draaide zich om en rende het park uit.	He turned and ran out of the park.	3.51	
+Fiction_0060	lach	noun, de(m)	laugh, smile	Weer die geruststellende lach op zijn gezicht.	Again that reassuring smile on his face.	2.74	
+Fiction_0061	sigaret	noun, de	cigarette	Hij stak een sigaret op.	He lit a cigarette.	3.78	
+Fiction_0062	huid	noun, de	skin	Hij had een bruine huid en stevige bovenarmen en dijen.	He had brown skin and firm upper arms and thighs.	4.17	
+Fiction_0063	verbergen	verb	to hide	Ze verborg haar gezicht in haar handen.	She hid her face in her hands.	5.28	
+Fiction_0064	toon	noun, de(m)	tone	De toon van zijn stem maakte me bang.	The tone of his voice scared me.	5.23	
+Fiction_0065	geur	noun, de(m)	odour	Ik herinner me alleen nog de geur van de kruiden.	I only remember the smell of the spices.	3.12	
+Fiction_0066	tand	noun, de(m)	tooth	Ik zette mijn tanden in een lekkere appel.	I set my teeth on a tasty apple.	5.35	
+Fiction_0067	aarzelen	verb	to hesitate	De knapen aarzelden om de snoepjes op te rapen.	The boys hesitated to pick up the candies.	3.25	
+Fiction_0068	kleden	verb	to dress	Ik houd er niet van slordig gekleed te gaan.	"I don't like to be dressed sloppily."	3.80	
+Fiction_0069	aarde	noun, de	earth	Zelfs de aarde in de bloempotten was bedekt met witte korsten.	Even the soil in the flower pots was covered with white crusts.	6.82	
+Fiction_0070	geest	noun, de(m)	mind, spirit	De dromen hadden vluchtige beelden nagelaten in haar geest.	The dreams had left fleeting images in her mind.	5.95	
+Fiction_0071	branden	verb	to burn	In de kamer brandden kaarsen.	Candles were burning in the room.	5.69	
+Fiction_0072	glimlach	noun, de(m)	smile	Hij forceerde een glimlach en volgde haar de kamer in.	He forced a smile and followed her into the room.	2.80	
+Fiction_0073	overeind	adv	up	Ariane kwam overeind uit haar stoel en streek haar kleren glad.	Ariane got up from her chair and smoothed out her clothes.	3.33	
+Fiction_0074	smal	adj	narrow	Het huis waarin wij woonden lag aan een smalle straat.	The house we lived in was on a narrow street.	3.7	
+Fiction_0075	brood	noun, het	bread	Om drie uur at hij een stuk brood met tonijn.	"At three o'clock he ate a piece of bread with tuna."	5.21	
+Fiction_0076	zodra	conj	once, as soon as	Zodra het begon te schemeren legden ze zich te slapen.	As soon as it began to get dusk they laid down to sleep.	6.11	
+Fiction_0077	schenken	verb	to donate	De smidse schenk ik aan jou.	"The blacksmith's shop I donate to you."	6.00	
+Fiction_0078	vrolijk	adj	cheerful, merry	Ze zongen samen een vrolijk liedje.	They sang a happy song together.	5.09	
+Fiction_0079	kast	noun, de	cupboard	Haar kast stond vol pakken beschuit en potten honing.	Her closet was full of packs of rusks and jars of honey.	4.54	
+Fiction_0080	mompelen	verb	to mumble	Hij mompelde iets en liep snel door.	He mumbled something and walked on quickly.	1.49	
+Fiction_0081	nek	noun, de(m)	neck	Ik zie haar aders kloppen in haar nek.	I can see her veins throbbing in her neck.	4.31	
+Fiction_0082	keel	noun, de	throat	Zijn keel werd er niet beter op.	"His throat wasn't getting any better."	3.36	
+Fiction_0083	zuchten	verb	to sigh	Ze zuchtte diep om de stroom gedachten te doorbreken.	She sighed deeply to break the stream of thoughts.	3.35	
+Fiction_0084	trillen	verb	to tremble, to shake	Mijn benen trilden nog toen ik naar de badkamer liep.	My legs were still shaking as I walked to the bathroom.	1.88	
+Fiction_0085	hé	interj	hey	Het is nogal belangrijk voor je he?	"It's kind of important to you, isn't it?"	0.98	
+Fiction_0086	voortdurend	adj	continuous	Veel van onze luisteraars klagen over voortdurende hoofdpijn. (adv) Ze houden elkaar voortdurend in de gaten.	Many of our listeners complain of constant headaches. (adv) They are constantly watching each other.	7.34	
+Fiction_0087	voorhoofd	noun, het	forehead	Het zweet staat op zijn voorhoofd.	The sweat is on his forehead.	1.69	
+Fiction_0088	roken	verb	to smoke	Een paar jaar geleden is ze gestopt met roken.	A few years ago, she quit smoking.	4.81	
+Fiction_0089	dansen	verb	to dance	Men kon in verschillende zalen dansen op muziek van alle stijlen.	People could dance to music of all styles in different halls.	5.09	
+Fiction_0090	bloot	adj	bare	Ze voelt iets aan haar blote voeten.	She feels something on her bare feet.	4.31	
+Fiction_0091	spiegel	noun, de(m)	mirror	Ik kroop naar de badkamer en bekeek mezelf in de spiegel.	I crawled to the bathroom and looked at myself in the mirror.	3.00	
+Fiction_0092	houten	adj	wooden	Ik wandelde tot bij de houten schutting.	I walked up to the wooden fence.	4.24	
+Fiction_0093	vuur	noun, het	fire	Dus staat hij op en begint hij het vuur aan te wakkeren.	So he gets up and starts to light the fire.	8.89	
+Fiction_0094	zwaaien	verb	to wave	De ziener zwaaide met zijn mantel over zijn uitgestoken arm.	The seer waved his cloak over his outstretched arm.	3.39	
+Fiction_0095	opzij	adv	aside	Ze ging opzij om hem door te laten.	She moved aside to let him through.	3.06	
+Fiction_0096	verte	noun, de(f)	distance	Ik staar naar de boerderijen in de verte.	I stare at the farms in the distance.	1.96	
+Fiction_0097	hals	noun, de(m)	neck	Ik vond hem leuk met zijn blonde kuif en het gouden kettinkje om zijn hals.	I liked him with his blond crest and the gold chain around his neck.	2.24	
+Fiction_0098	dun	adj	thin	Saskia stond in haar dunne kimono te huiveren in de deuropening.	Saskia stood in the doorway in her thin kimono, wincing.	3.96	
+Fiction_0099	tas	noun, de	bag	Op een middag stopte ik wat kleren in een tas en liep naar zijn huis.	One afternoon I put some clothes in a bag and walked to his house.	2.54	
+Fiction_0100	spoor	noun, het	a) trace b) track	a) Tot mijn verwondering toonde ze geen spoor van verwarring. b) Je zag er alleen de sporen van dieren.	a) To my amazement, she showed no sign of confusion. b) You only saw the tracks of animals there.	9.80	
+Fiction_0101	gezelschap	noun, het	company	Hij blijft haar deze middag gezelschap houden.	He will keep her company this afternoon.	5.60	
+Fiction_0102	geloof	noun, het	faith, religion	Mijn geloof staat haaks op de natuur.	My faith is at odds with nature.	5.42	
+Fiction_0103	klap	noun, de(m)	blow	Woedend had hij haar een klap om de oren gegeven.	Furious, he had slapped her around the ears.	7.60	
+Fiction_0104	rook	noun, de(m)	smoke	De rook zit nog in zijn haren.	The smoke is still in his hair.	3.30	
+Fiction_0105	binnenkomen	verb	to enter	Guy zat aan het bed toen we binnenkwamen.	Guy was sitting at the bedside when we came in.	3.75	
+Fiction_0106	leunen	verb	to lean	Hij leunde tegen de bar en voelde zich in zijn element.	He leaned against the bar, feeling in his element.	1.91	
+Fiction_0107	vogel	noun, de(m)	bird	Nu en dan vloog nog een vogel van de ene tak naar de andere.	Now and then another bird flew from one branch to another.	4.96	
+Fiction_0108	café	noun, het	café, pub	De deur van het café ging open.	The door of the café opened.	9.36	
+Fiction_0109	ophouden	verb	to stop	Hij hoorde dat ik opgehouden was met tekenen.	He heard that I had stopped drawing.	3.85	
+Fiction_0110	verschrikkelijk	adj	terrible	In de werkhallen was het een verschrikkelijke herrie.	In the work halls it was a terrible noise.	4.95	
+Fiction_0111	schaduw	noun, de	shadow	Toen draaide hij zich om en verdween in de schaduw van het bos.	Then he turned and disappeared into the shadows of the forest.	3.46	
+Fiction_0112	luid	adj	loud	Hij luistert op zijn kamer naar luide muziek.	He listens to loud music in his room.	3.35	
+Fiction_0113	verlangen	noun, het	desire	Hij leeft zonder enige ambitie en zonder verlangen.	He lives without any ambition and without desire.	2.87	
+Fiction_0114	tong	noun, de	tongue	Zijn tong glijdt heen en weer over de buitenkant van zijn tanden.	His tongue slides back and forth across the outside of his teeth.	2.59	
+Fiction_0115	wagen	noun, de(m)	car	De wagen was bijna twee jaar oud en al lang aan vervanging toe.	The car was almost two years old and long overdue for replacement.	14.00	
+Fiction_0116	wijn	noun, de(m)	wine	Ze dronk haar wijn veel te snel.	She drank her wine far too quickly.	4.91	
+Fiction_0117	verbaasd	adj	surprised, amazed	Haar verbaasde gezicht sprak boekdelen.	Her puzzled face spoke volumes.	3.10	
+Fiction_0118	wassen	verb	to wash	Zodra ze binnen was waste ze haar gezicht en handen.	As soon as she was inside she washed her face and hands.	4.25	
+Fiction_0119	drukte	noun, de(f)	bustle, commotion	In de drukte durf ik met anderen erbij haar niet te zoenen.	"In the crowds, with others around, I don't dare kiss her."	2.71	
+Fiction_0120	vlees	noun, het	meat	Ze stond bij het fornuis het vlees te braden.	She stood at the stove roasting the meat.	4.52	
+Fiction_0121	zuster	noun, de(f)	sister	Eén ding hadden de broer en zuster gemeen.	One thing the brother and sister had in common.	2.87	
+Fiction_0122	tikken	verb	to tap	Er werd krachtig tegen het raam getikt.	There was vigorous tapping against the window.	3.40	
+Fiction_0123	strak	adj	tight	Ik draag een zwarte strakke broek.	"I'm wearing black tight pants."	4.13	
+Fiction_0124	opstaan	verb	to stand up	Toen hij opstond verbaasde ik mij weer over zijn lengte.	When he stood up I marveled again at his height.	3.60	
+Fiction_0125	traag	adj	slow	Hij klaagde over het trage tempo en het tijdverlies.	He complained about the slow pace and the loss of time.	4.53	
+Fiction_0126	vaag	adj	vague	Tenslotte waren het vage gedachten gebleven.	After all, they had remained vague thoughts.	3.20	
+Fiction_0127	snijden	verb	to cut, to slice	Ze sneed dikke sneden zwart brood.	She cut thick slices of black bread.	5.18	
+Fiction_0128	blond	adj	blond	De blonde vrouw keek naar het water.	The blonde woman looked at the water.	2.74	
+Fiction_0129	gordijn	noun, het	curtain	Door de scheuren in de gordijnen dringt licht binnen.	Light penetrates through the cracks in the curtains.	2.03	
+Fiction_0130	vegen	verb	to sweep	Hij veegde het zweet en de tranen van zijn gezicht.	He wiped the sweat and tears from his face.	3.05	
+Fiction_0131	dromen	verb	to dream	Deze nacht heeft hij van de zee gedroomd.	This night he dreamed of the sea.	5.30	
+Fiction_0132	terugkomen	verb	to return	Toen hij terugkwam was hij gekalmeerd.	When he returned, he had calmed down.	3.99	
+Fiction_0133	rollen	verb	to roll	Tranen rolden over haar wangen.	Tears rolled down her cheeks.	3.82	
+Fiction_0134	grap	noun, de	joke	Mijn vrouw kon om de grap lachen.	My wife could laugh at the joke.	4.35	
+Fiction_0135	knijpen	verb	to pinch	Ze kneep in zijn hand.	She squeezed his hand.	1.76	
+Fiction_0136	afscheid	noun, het	farewell, goodbye	Bij het afscheid kusten ze elkaar.	As they parted, they kissed each other.	6.09	
+Fiction_0137	dronken	adj	drunk	Er zit één dronken man aan de bar.	There is one drunk man sitting at the bar.	3.42	
+Fiction_0138	wolk	noun, de	cloud	Een strakblauwe lucht waar heldere wolken doorheen zeilen.	A clear blue sky with bright clouds sailing through it.	3.00	
+Fiction_0139	slaapkamer	noun, de	bedroom	Hij liep de slaapkamer in om de tv aan te zetten.	He walked into the bedroom to turn on the TV.	2.86	
+Fiction_0140	wrijven	verb	to rub	Hij wreef over zijn gezicht.	He rubbed his face.	1.68	
+Fiction_0141	jurk	noun, de	dress	Ze trok haar jurk naar beneden en kruiste haar benen.	She pulled her dress down and crossed her legs.	1.96	
+Fiction_0142	tante	noun, de(f)	aunt	Je tante en een paar buurvrouwen komen zo.	Your aunt and a couple of neighbors are coming in a bit.	2.75	
+Fiction_0143	vertrek	noun, het	a) room b) departure	a) De jongen deed de deur open van een vertrek dat aan de straatkant lag. b) Na hun vertrek bleef een leeg huis achter.	a) The boy opened the door of a room that faced the street. b) After they left, an empty house was left behind.	6.29	
+Fiction_0144	uitzien	verb	to look	Het viel me op dat hij er gespannen uitzag.	I noticed that he looked tense.	4.45	
+Fiction_0145	gras	noun, het	grass	Ik zit rechtop in het gras en draag een wit shirt.	I am sitting upright in the grass and wearing a white shirt.	3.36	
+Fiction_0146	dichtbij	adv	close	Ze komt nu heel dichtbij en laat zich vallen op een stoel.	She comes very close now and drops down on a chair.	3.74	
+Fiction_0147	paard	noun, het	horse	Het paard bleef staan en hinnikte.	The horse remained standing and whinnied.	4.77	
+Fiction_0148	stapel	noun, de(m)	pile	Op het werk liggen stapels post te wachten.	Piles of mail are waiting at work.	2.79	
+Fiction_0149	nat	adj	wet	Voor de spiegel kamde ik mijn natte haar	In front of the mirror I combed my wet hair	3.61	
+Fiction_0150	verdriet	noun, het	sadness	Zijn berouw en verdriet om de breuk met zijn vrouw lijken oprecht.	His repentance and grief for the breakup with his wife seem sincere.	3.17	
+Fiction_0151	doos	noun, de	box	Ik tilde voorzichtig de deksel van de doos.	I carefully lifted the lid off the box.	3.46	
+Fiction_0152	kennelijk	adv	obviously	De jonge heelmeester was kennelijk over iets teleurgesteld.	The young healer was obviously disappointed about something.	4.40	
+Fiction_0153	naderen	verb	to approach	Er naderde een zwarte auto.	A black car was approaching.	3.06	
+Fiction_0154	ziel	noun, de	soul	Daar ging een tot in het diepst van zijn ziel gekrenkte man.	There went a man hurt to the core of his soul.	4.1	
+Fiction_0155	berg	noun, de(m)	mountain	Ik ben een aantal keren die berg op geweest.	I have been up that mountain a number of times.	4.92	
+Fiction_0156	stoten	verb	to bump, to knock	Mijn elleboog stootte tegen het ijzeren hoofdeinde van mijn bed.	My elbow bumped against the iron headboard of my bed.	3.51	
+Fiction_0157	kerel	noun, de(m)	guy	Ik ben een normale gezonde kerel.	I am a normal healthy guy.	4.35	
+Fiction_0158	heffen	verb	to lift	Met zijn laatste krachten hief hij het kind de lucht in.	With his last strength, he lifted the child into the air.	2.87	
+Fiction_0159	ruiken	verb	to smell	Haar handen ruiken naar wasmiddel met lavendel.	Her hands smell of detergent with lavender.	2.78	
+Fiction_0160	wekken	verb	to wake up	Hij tracht te vermijden zijn vrouw te wekken.	He tries to avoid waking his wife.	5.10	
+Fiction_0161	spijt	noun, de	regret	De hele dag had ik spijt van mijn woorden en gedrag.	All day I regretted my words and behavior.	4.49	
+Fiction_0162	thee	noun, de(m)	tea	Hij zet het blad met thee en beschuit op tafel.	He puts the tray of tea and rusks on the table.	2.35	
+Fiction_0163	bier	noun, het	beer	Ik bestelde een tweetal worstjes en een derde glas bier	I ordered a two sausages and a third glass of beer	4.27	
+Fiction_0164	strelen	verb	to caress, to stroke	Hij troostte haar en streelde haar over het haar.	He comforted her and stroked her hair.	1.21	
+Fiction_0165	bezitten	verb	to possess	Ze bezat een uitstekend verstand.	She possessed an excellent intellect.	4.26	
+Fiction_0166	zucht	noun, de(m)	sigh	Henk draaide zich met een zucht om.	Henk turned around with a sigh.	3.40	
+Fiction_0167	morgen	noun, de(m)	morning	Toen wij de volgende morgen wakker werden, waren de mannen weg.	When we woke up the next morning, the men were gone.	2.07	
+Fiction_0168	aankijken	verb	to look at	Al die tijd bleef hij me aankijken.	All the while he kept looking at me.	1.77	
+Fiction_0169	enigszins	adv	somewhat	Hij ging enigszins overeind zitten.	He sat up slightly.	4.77	
+Fiction_0170	helder	adj	clear	Het is nog steeds prachtig helder weer.	The weather is still beautifully clear.	4.31	
+Fiction_0171	oom	noun, de(m)	uncle	Mijn vader ging met mijn oom op stap.	My father went out with my uncle.	2.40	
+Fiction_0172	glanzen	verb	to shine	Op de grond glanzen haar voetstappen als olie.	On the ground, her footsteps shine like oil.	1.33	
+Fiction_0173	verliefd	adj	in love	Misschien was zij wel verliefd op mij geweest.	Maybe she had been in love with me.	3.58	
+Fiction_0174	woede	noun, de	rage	Zijn woede gaf hem moed.	His anger gave him courage.	3.36	
+Fiction_0175	poot	noun, de(m)	leg, paw	Hij had een hond die stokstijf kon staan op drie poten.	He had a dog that could stand stock-still on three legs.	4.11	
+Fiction_0176	verbazing	noun, de(f)	amazement	Haar mond viel open van verbazing.	Her mouth fell open in surprise.	3.15	
+Fiction_0177	stel	noun, het	set, couple	We zaten als een stel dorpsbewoners in de grote stad.	We were like a bunch of villagers in the big city.	2.92	
+Fiction_0178	volkomen	adv	completely	De broertjes negeerden hem volkomen.	The brothers completely ignored him.	3.02	
+Fiction_0179	verlangen	verb	to long	Ik verlangde naar iemand om alles mee te delen.	I longed for someone to share everything with.	2.31	
+Fiction_0180	kussen	noun, het	pillow	Hij drukt zich dieper in de kussens van de bank.	He presses himself deeper into the cushions of the sofa.	1.61	
+Fiction_0181	onverwacht	adj	unexpected	De onverwachte mist stuurde zijn plannen in de war.	The unexpected fog sent his plans into disarray.	5.07	
+Fiction_0182	duiken	verb	to dive	We duiken in het zwembad.	We dive into the pool.	6.28	
+Fiction_0183	tillen	verb	to lift	Mijn vader tilde me over de kuilen in de weg.	My father lifted me over the potholes in the road.	2.51	
+Fiction_0184	mager	adj	lean	Ze was slank en vrij mager.	She was slender and quite thin.	2.90	
+Fiction_0185	waarschuwen	verb	to warn	Ik ben gekomen om u te waarschuwen.	I have come to warn you.	8.13	
+Fiction_0186	vent	noun, de(m)	fellow, bloke	Ik kan je zelfs nog vertellen welke kleren die vent droeg.	I can even tell you what clothes the guy was wearing.	2.72	
+Fiction_0187	overkant	noun, de(m)	other side	Aan de overkant van de gracht is meer te beleven.	Across the canal there is more to experience.	2.62	
+Fiction_0188	wenkbrauw	noun, de	eyebrow	Paul keek hen met gefronste wenkbrauwen aan.	Paul looked at them with furrowed brows.	1.51	
+Fiction_0189	strekken	verb	to straighten	Hij schuift onderuit op zijn stoel en strekt zijn lange benen.	He slides down on his chair and stretches his long legs.	1.95	
+Fiction_0190	spul	noun, het	stuff, things	Ik ging zelf de spullen in zijn villa ophalen.	I went myself to pick up the items at his villa.	4.34	
+Fiction_0191	vertrouwd	adj	familiar	Het duurt even voordat ze de vertrouwde stem hoort.	It takes a moment before she hears the familiar voice.	3.56	
+Fiction_0192	wand	noun, de(m)	wall	Hij wees naar de grote klok aan de wand.	He pointed to the large clock on the wall.	2.20	
+Fiction_0193	zweet	noun, het	sweat	Harry voelde het zweet op zijn voorhoofd staan.	Harry felt the sweat on his forehead.	1.59	
+Fiction_0194	thuiskomen	verb	to come home	Het was wel weinig waarmee ik thuiskwam.	It was little I came home with, though.	2.06	
+Fiction_0195	plastic	adj	plastic	Heeft u misschien een leeg plastic tasje liggen?	Do you perhaps have an empty plastic bag lying around?	2.66	
+Fiction_0196	opwinden (zich)	verb	to get excited, to get worked up	Heel de dag had hij zich door die gedachten laten opwinden.	All day long, he had been excited by these thoughts.	1.63	
+Fiction_0197	barsten	verb	to crack	De voorruit van zijn voertuig was gebarsten.	The windshield of his vehicle was cracked.	2.83	
+Fiction_0198	spraak	noun, de	speech	Hij verstond de spraak van deze streek niet.	He did not understand the speech of this region.	1.04	
+Fiction_0199	bril	noun, de(m)	(pair of) glasses	In de jaren vijftig droegen de intellectuelen dit soort bril.	In the 1950s, intellectuals wore this kind of glasses.	2.38	
+Fiction_0200	sleutel	noun, de(m)	key	Een sleutel wordt in het slot omgedraaid.	A key is turned in the lock.	2.99	
+Fiction_0201	kin	noun, de	chin	Mijn kin steunde op mijn vuisten.	My chin rested on my fists.	1.18	
+Fiction_0202	hout	noun, het	wood	Hij steekt het stuk hout verder in het vuur	He puts the piece of wood further into the fire	3.59	
+Fiction_0203	honger	noun, de(m)	hunger	Ze kon niet slapen van de honger	She could not sleep from hunger	3.16	
+Fiction_0204	rusten	verb	to rest	Ik laat mijn warme voorhoofd rusten tegen de koele steen.	I rest my warm forehead against the cool stone.	3.12	
+Fiction_0205	schat	noun, de(m)	treasure, dear	Het is een schat van een vrouw.	She is a treasure of a woman.	3.57	
+Fiction_0206	wonder	noun, het	miracle	Het was een wonder dat er geen vogeltje in zijn mond vloog.	It was a miracle that no bird flew into his mouth.	4.09	
+Fiction_0207	weggaan	verb	to leave	Waarom ben je weggegaan zonder ook maar enig bericht.	Why did you leave without even a message.	2.35	
+Fiction_0208	teen	noun, de(m)	toe	De tenen leken net stukjes worst.	The toes looked like pieces of sausage.	2.80	
+Fiction_0209	verrassen	verb	to surprise	Ze was verrast over de gezelligheid van haar kamer.	She was surprised at how cozy her room was.	9.03	
+Fiction_0210	allang	adv	a long time ago	Je moest allang slapen.	You were supposed to be asleep a long time ago.	2.74	
+Fiction_0211	stralen	verb	to shine	Haar ogen straalden en haar mond lachte.	Her eyes were shining and her mouth was smiling.	2.93	
+Fiction_0212	koel	adj	cool	De man geeft een beetje koel water te drinken.	The man gives a little cool water to drink.	2.67	
+Fiction_0213	wenden (zich)	verb	to turn	Hij wendt zich weertot het publiek om zijn verhaal voort te zetten.	He turns back to the audience to continue his story.	1.79	
+Fiction_0214	klok	noun, de	clock	De wijzers van de klok ontbraken.	The hands of the clock were missing.	3.21	
+Fiction_0215	koffer	noun, de(m)	suitcase	Mijn koffer had ik al beneden in de gang klaargezet.	I had already prepared my suitcase downstairs in the hallway.	2.31	
+Fiction_0216	lamp	noun, de	lamp	Alle lampen in het huis zijn al uit als hij aankomt.	All the lights in the house are already off when he arrives.	2.93	
+Fiction_0217	hoed	noun, de(m)	hat	Ze bond hem een sjaal om en zette een hoed op zijn hoofd.	She tied a scarf on him and put a hat on his head.	2.33	
+Fiction_0218	dwars	adj	diagonal	Zijn gezicht werd ontsierd door diepe dwarse denkrimpels. (adv) Er ligt een omgevallen boomstam dwars over de stroom. dwars zitten: Ik wist wat haar zo dwars zat. dubbel en dwars: Dat heb je dubbel en dwars verdiend.	His face was marred by deep transverse thought wrinkles. (adv) There is a fallen tree trunk across the stream. transverse: I knew what was bothering her so much. double and cross: You deserved that double and cross.	3.16	
+Fiction_0219	deken	noun, de	blanket	Het meisje kleedde zich onder de dekens aan.	The girl dressed under the covers.	1.94	
+Fiction_0220	voordeur	noun, de	front door	Adriaan rent door de gang en door de voordeur naar buiten.	Adriaan runs down the hallway and out the front door.	1.95	
+Fiction_0221	achterlaten	verb	to leave behind	Ik had die doos op mijn kamer achterge laten.	I had left that box in my room.	3.55	
+Fiction_0222	blind	adj	blind	Op het afgesproken tijdstip verscheen de blinde man.	At the appointed time, the blind man appeared.	3.86	
+Fiction_0223	lijk	noun, het	corpse	Deze jongen ligt zo stil als een lijk.	This boy lies as still as a corpse.	2.74	
+Fiction_0224	optrekken	verb	a) to accelerate b) to put up	a) De auto trekt op. b) Het gebouw is opgetrokken uit gele baksteen.	a) The car pulls up. b) The building is constructed of yellow brick.	3.94	
+Fiction_0225	moed	noun, de(m)	courage	Deze gedachte gaf haar nieuwe moed.	This thought gave her new courage.	4.08	
+Fiction_0226	kalm	adj	calm	Het zijn kalme, rustige mensen. (adv) Kalm en bedaard begint ze te vertellen over de kostschool.	They are calm, quiet people. (adv) Calm and composed, she begins to tell about boarding school.	2.25	
+Fiction_0227	zorgvuldig	adj	careful	Zijn zorgvuldige overpeinzingen leidden steevast tot niets.	His careful musings invariably led to nothing.	2.61	
+Fiction_0228	vervolgen	verb	to continue	Hij vervolgde zijn weg naar beneden.	He continued his way down the hill.	6.51	
+Fiction_0229	terugkeren	verb	to return	De dokter is bij hem geweest, maar niet meer teruggekeerd.	The doctor visited him, but did not return.	6.58	
+Fiction_0230	vel	noun, het	sheet	Ze legde een vel papier voor mij neer.	She put a sheet of paper in front of me.	2.84	
+Fiction_0231	rukken	verb	to snatch, to tear	Hij rukt de verpakking van de cassette.	He yanks the package off the cassette.	2.59	
+Fiction_0232	kussen	verb	to kiss	Ik kuste haar teder en ze zoende terug.	I kissed her tenderly and she kissed back.	1.50	
+Fiction_0233	gulden	noun, de(m)	guilder	Een redelijke kleine auto kostte toen minder dan duizend gulden.	A reasonable small car cost less than a thousand guilders at the time.	3.33	
+Fiction_0234	verdieping	noun, de(f)	floor	Ik logeerde op de bovenste verdieping in een kamer die uitgaf op een dakterras.	I stayed on the top floor in a room that gave out onto a rooftop terrace.	4.52	
+Fiction_0235	heilig	adj	holy	De heilige witte os wordt geslacht.	The sacred white ox is slaughtered.	3.45	
+Fiction_0236	zand	noun, het	sand	Dag en nacht versterkten de boeren de dijk met stenen en zand.	Day and night, farmers reinforced the dike with stones and sand.	3.22	
+Fiction_0237	warmte	noun, de(f)	heat	De zon gaf nog maar weinig warmte.	The sun still provided very little warmth.	2.67	
+Fiction_0238	schuin	adj	oblique	De rups is groen met witte en paarse schuine strepen op zijn zijkant.	The caterpillar is green with white and purple slanted stripes on its side.	1.55	
+Fiction_0239	slepen	verb	to drag	In de muur zitten krassen van grote voorwerpen die naar boven zijn gesleept.	There are scratches in the wall from large objects that have been dragged up the wall.	5.06	
+Fiction_0240	schilderen	verb	to paint	Ik kon door de ramen de zee schilderen.	I could paint the sea through the windows.	3.88	
+Fiction_0241	vuist	noun, de	fist	Evelien knijpt haar handen tot vuisten.	Evelien squeezes her hands into fists.	2.29	
+Fiction_0242	vouwen	verb	to fold	Hazel vouwde haar armen over elkaar.	Hazel folded her arms.	1.06	
+Fiction_0243	tak	noun, de(m)	branch	Boven lag nog zijn nest van takken en veren.	Above was still his nest of branches and feathers.	3.47	
+Fiction_0244	laken	noun, het	sheet	Ik verstopte me onmiddellijk onder de lakens.	I immediately hid under the sheets.	1.84	
+Fiction_0245	rok	noun, de(m)	skirt	Hij verstopte zijn gezicht in haar rok.	He hid his face in her skirt.	1.49	
+Fiction_0246	ontsnappen	verb	to escape	Misschien zou er straks een gaatje zijn waardoor ik kon ontsnappen.	Maybe later there would be a hole through which I could escape.	5.42	
+Fiction_0247	nieuwsgierig	adj	curious	Links en rechts keken nieuwsgierige hoofden om de hoek.	Curious heads peeked around the corner left and right.	2.34	
+Fiction_0248	hijgen	verb	to gasp, to pant	Ik hijgde een beetje.	I gasped a little.	0.87	
+Fiction_0249	vuil	adj	dirt	Dit keer heb ik geen vuile handen gekregen.	"This time I didn't get my hands dirty."	3.53	
+Fiction_0250	hal	noun, de	hall	In de hoge hal was het doodstil.	In the high hall it was deathly quiet.	2.11	
+Fiction_0251	bar	noun, de	bar	Een beetje onrustig dronken ze aan de bar van hun whisky.	A little uneasy, they sipped their whiskey at the bar.	2.61	
+Fiction_0252	gewoonte	noun, de(f)	habit	Het was zijn gewoonte niet om iets te vragen.	It was not his habit to ask for anything.	3.82	
+Fiction_0253	naakt	adj	nude, naked	Hij voelt de warmte van haar naakte lichaam.	He feels the warmth of her naked body.	2.43	
+Fiction_0254	hevig	adj	violent, fierce	Een hevige onrust grijpt hem aan.	A fierce restlessness seizes him.	5.11	
+Fiction_0255	keurig	adj	neat	Ze liep in een keurig mantelpak, op hoge hakken.	She walked in a neat suit, in high heels.	2.63	
+Fiction_0256	roze	adj	pink	Ze vulde enkele cijfers in op een roze formulier.	She filled in some numbers on a pink form.	2.56	
+Fiction_0257	stinken	verb	to smell	De lucht stinkt naar kelders en onweer.	The air stinks of basements and thunderstorms.	2.08	
+Fiction_0258	haastig	adj	hasty	Er reden een enkele auto en wat haastige fietsers die naar hun werk gingen.	There was a single car and some rushing cyclists going to work.	1.02	
+Fiction_0259	mes	noun, het	knife	Netjes eten doe je met mes en vork.	Eating neatly is done with knife and fork.	4.31	
+Fiction_0260	liegen	verb	to lie	Als je één keer gelogen hebt, denkt ze dat alles wat je zegt een leugen is.	"If you've lied once, she thinks everything you say is a lie."	3.18	
+Fiction_0261	kraken	verb	to crunch, to crack	Een geweldige dreun deed het houtwerk kraken.	A terrific thump made the woodwork creak.	2.52	
+Fiction_0262	eeuwig	adj	eternal	Het eiland is het symbool van de eeuwige strijd van Nederland tegen het water	"The island is the symbol of Holland's eternal struggle against the water"	3.90	
+Fiction_0263	tevoren	adv	before	Ik was hier tevoren over ingelicht.	I was informed of this in advance.	3.07	
+Fiction_0264	gemak	noun, het	ease	Hij benijdt haar ook om het gemak waarmee ze zich beweegt. op zijn gemak: Hij voelde zich niet op zijn gemak.	He also envies her for the ease with which she moves. at ease: He did not feel at ease.	3.13	
+Fiction_0265	reiken	verb	to reach	Het geluid reikt hier niet verder dan drie meter.	The sound here does not extend beyond three meters.	2.90	
+Fiction_0266	schamen (zich)	verb	to be ashamed	Ik schaam mij diep dat ik u dit vertellen moet.	I am deeply ashamed to have to tell you this.	2.32	
+Fiction_0267	wijd	adj	wide	In de wijde omtrek is geen huis te zien.	Not a house is to be seen in the wide circumference.	1.53	
+Fiction_0268	kaal	adj	bald	Een lok haar lag dwars over zijn kale hoofd.	A lock of hair lay across his bald head.	2.19	
+Fiction_0269	lot	noun, het	fate	Na een paar keer is het lot ons goed gezind.	After a few times, fate favors us.	5.36	
+Fiction_0270	glimmen	verb	to glow, to shine	Haar gezicht was nat en glom in de zon.	Her face was wet and glistening in the sun.	1.11	
+Fiction_0271	knippen	verb	to cut	De kapper heeft mijn haargeknipt.	The barber cut my hair.	2.58	
+Fiction_0272	eenzaam	adj	lonely	Ik ging het grote eenzame huis binnen.	I entered the big lonely house.	2.57	
+Fiction_0273	onderbreken	verb	to interrupt	Een storing onderbrak de nieuwsuitzending.	A glitch interrupted the news broadcast.	2.24	
+Fiction_0274	bedekken	verb	to cover	Een doek bedekt steeds het gedeelte waaraan hij werkt.	A cloth always covers the part he is working on.	2.35	
+Fiction_0275	slok	noun, de(m)	sip	Martha kijkt na elke slok koffie op haar horloge.	Martha looks at her watch after each sip of coffee.	1.08	
+Fiction_0276	vlek	noun, het/de	stain	Zij had rode vlekken op de wangen.	She had red spots on her cheeks.	2.16	
+Fiction_0277	scheuren	verb	to tear	Hij scheurde het boek in stukken.	He tore the book into pieces.	2.68	
+Fiction_0278	wijs	adj	wise	Ze had van haar moeder wijze raad gekregen.	She had received wise advice from her mother.	2.71	
+Fiction_0279	achterover	adv	backwards	Ze liet zich achterover in de bank zakken.	She let herself sink backward into the couch.	1.21	
+Fiction_0280	merkwaardig	adj	curious	Ze neemt me met een merkwaardige blik op.	She takes me in with a curious look.	2.97	
+Fiction_0281	horloge	noun, het	watch	Ik keek op mijn horloge.	I looked at my watch.	1.22	
+Fiction_0282	ongetwijfeld	adv	undoubtedly	Het is ongetwijfeld het mooiste dat ik tot nu toe onder ogen heb gehad.	It is undoubtedly the most beautiful I have yet faced.	5.21	
+Fiction_0283	gillen	verb	to scream	Hier mag je gillen als je daar zin in hebt.	Here you may scream if you feel like it.	1.65	
+Fiction_0284	plank	noun, de	plank, board	Hier moest hij voorzichtig lopen want de kurkdroge planken kraakten.	Here he had to walk carefully because the corky planks creaked.	2.62	
+Fiction_0285	net	adj	neat, tidy	Een nette jongeman met een keurige regenmantel sprak me aan.	A neat young man wearing a neat raincoat spoke to me.	1.70	
+Fiction_0286	verlegen	adj	shy	Hij was een verlegen jongen.	He was a shy boy.	1.65	
+Fiction_0287	mouw	noun, de	sleeve	Françoise trok aan de mouw van mijn jas.	Françoise pulled on the sleeve of my coat.	2.40	
+Fiction_0288	steek	noun, de(m)	stitch, twinge	Een steek trok door mijn hoofd. in de steek laten: Ik schaamde me omdat ik haar zo in de steek had gelaten.	A sting went through my head. letting down: I felt ashamed for letting her down so much.	2.98	
+Fiction_0289	golf	noun, de	wave	En een halfuur later lag ze alweer op haar rug te deinen op de golven.	And half an hour later she was already on her back swaying on the waves.	3.26	
+Fiction_0290	plafond	noun, het	ceiling	Via de kier boven de gordijnen werd het plafond verlicht door de straatlantaarns.	Through the crack above the curtains, the ceiling was lit by the street lamps.	2.28	
+Fiction_0291	touw	noun, het	rope	Ik laat mij met behulp van een touw van het dak zakken.	I lower myself from the roof with the help of a rope.	2.07	
+Fiction_0292	stromen	verb	to flow	Mijn bloed stroomt door mijn lijf.	My blood is rushing through my body.	3.63	
+Fiction_0293	nerveus	adj	nervous	Hij maakte een wat gespannen nerveuze indruk.	He made a somewhat tense nervous impression.	1.78	
+Fiction_0294	schoonheid	noun, de(f)	beauty	De schoonheid van het vroege voorjaar ontgaat me niet.	The beauty of early spring does not escape me.	2.77	
+Fiction_0295	maag	noun, de	stomach	Ondertussen bedacht hij dat het wel plezierig zou zijn als zijn maag iets te eten had.	Meanwhile, it occurred to him that it would be pleasant if his stomach had something to eat.	2.14	
+Fiction_0296	stijf	adj	stiff	Charlie kwam overeind en wreef over z’n stijve knieën.	Charlie got up and rubbed his stiff knees.	1.75	
+Fiction_0297	kruis	noun, het	cross	Er stond een groot kruis op de plattegrond.	There was a big cross on the map.	2.82	
+Fiction_0298	staart	noun, de(m)	tail	Op een weiland staat een pony met een heen en weer zwaaiende staart.	In a meadow there is a pony with its tail waving back and forth.	2.47	
+Fiction_0299	duim	noun, de(m)	thumb	Tussen mijn duim en wijsvinger hield ik haar kin geklemd.	Between my thumb and forefinger I held her chin clasped.	2.36	
+Fiction_0300	strijken	verb	to brush, to stroke	Ze streek langs haar neus en trok haar mondhoeken minachtend omlaag.	She stroked her nose and pulled the corners of her mouth down disdainfully.	2.10	
+Fiction_0301	ademen	verb	to breathe	Ze ademde diep en hield de adem in.	She breathed deeply and held her breath.	1.85	
+Fiction_0302	voorover	adv	face forward	Friedrich ligt voorover in de sneeuw.	Friedrich lies forward in the snow.	0.76	
+Fiction_0303	ergeren (zich)	verb	to annoy	Ik las over zijn schouder mee en daar ergerde hij zich aan.	I was reading over his shoulder and that annoyed him.	3.04	
+Fiction_0304	uitdrukking	noun, de(f)	expression	Zijn gezicht was zonder enige uitdrukking.	His face was expressionless.	2.35	
+Fiction_0305	rechtop	adv	upright	Janet ging rechtop zitten op bed en trok haar benen over de rand.	Janet sat upright on the bed and pulled her legs over the edge.	1.09	
+Fiction_0306	bil	noun, de	buttock	Hij ging met zijn billen op de kille grond zitten.	He sat down with his buttocks on the chilly ground.	2.15	
+Fiction_0307	gespannen	adj	tense	Voorzichtig legde hij een hand op haar gespannen buik.	Carefully he put a hand on her tense belly.	1.96	
+Fiction_0308	nagel	noun, de(m)	nail	Ze keek naar haar donkerrood gelakte nagels.	She looked at her dark red painted nails.	1.56	
+Fiction_0309	hardop	adv	aloud	Hans las hardop de namen van steden en dorpen waarlangs onze reis zou gaan.	Hans read aloud the names of towns and villages through which our journey would pass.	1.48	
+Fiction_0310	rivier	noun, de	river	Aan de overkant hing het lover van donkere bomen tot in de rivier.	Across the way, the foliage of dark trees hung down to the river.	4.42	
+Fiction_0311	dij	noun, de	thigh	Ze zette een tasje tussen haar dijen en begon erin te rommelen.	She put a purse between her thighs and began rummaging in it.	1.10	
+Fiction_0312	bewonderen	verb	to admire	Ik bewonderde hem omdat het hem gelukt leek te zijn van de lucht te leven.	I admired him because he seemed to have managed to live off the air.	2.95	
+Fiction_0313	woedend	adj	furious	Buiten stond een woedende menigte te wachten.	Outside, an angry crowd was waiting.	2.29	
+Fiction_0314	wijsvinger	noun, de(m)	index finger	Met duim en wijsvinger trok hij een biljet van duizend los uit de stapel.	With his thumb and forefinger, he pulled a thousand-dollar bill loose from the stack.	0.77	
+Fiction_0315	stok	noun, de(m)	stick	De hond liep vrolijk blaffend achter de stok aan.	The dog ran happily barking after the stick.	2.59	
+Fiction_0316	eindeloos	adj	endless	Een eindeloze dag lag voor hem.	An endless day lay before him.	2.69	
+Fiction_0317	smeken	verb	to beg	Mijn grootvader smeekt haar om beneden te komen.	My grandfather begs her to come downstairs.	1.51	
+Fiction_0318	evenmin	adv	as little as	Die mensen begrijpen me evenmin als jij.	"Those people don't understand me any more than you do."	4.64	
+Fiction_0319	doorbrengen	verb	to spend	Waar zou ze de volgende nacht doorbrengen?	Where would she spend the next night?	2.94	
+Fiction_0320	tasten	verb	to grope	Hij stak een hand in de zak en tastte naar zijn pijp.	He put a hand in the pocket and groped for his pipe.	1.71	
+Fiction_0321	zweven	verb	to float	Hier en daar zweven lichte nevels in de zachte zonneschijn.	Here and there, light mists float in the soft sunshine.	1.89	
+Fiction_0322	dadelijk	adv	immediately	Had hij er dadelijk naar moeten kijken?	Should he have looked at it right away?	1.41	
+Fiction_0323	ellende	noun, de	misery	Veel mensen vrezen dat er nog meer ellende in het verschiet ligt.	Many people fear that more misery lies ahead.	3.17	
+Fiction_0324	achteruit	adv	backwards	Ik duw hem achteruit.	I push him backwards.	3.17	
+Fiction_0325	knoop	noun, de(m)	knot, button	Hij schoof de knoop van zijn stropdas aan.	He slid the button of his tie on.	2.47	
+Fiction_0326	poos	noun, de	while	Het duurt nog een hele poos voor de oude vrouw terug is.	It takes quite a while for the old woman to return.	1.16	
+Fiction_0327	klemmen	verb	to stick, to jam	De buitendeur van het huisje klemde.	The outer door of the cottage jammed.	0.91	
+Fiction_0328	uitzicht	noun, het	view	Buiten onze kamer is een klein terrasje met uitzicht op een hoge muur.	Outside our room is a small terrace overlooking a high wall.	3.52	
+Fiction_0329	ruit	noun, de	window	De regen slaat tegen de ruiten.	The rain hits the windows.	1.75	
+Fiction_0330	kist	noun, de	chest	Een mooie kist van het fijnste hout.	A beautiful chest of the finest wood.	1.55	
+Fiction_0331	bezorgd	adj	concerned	Gisteren kwamen bezorgde landgenoten langs met bloemen.	Yesterday, concerned compatriots came by with flowers.	2.94	
+Fiction_0332	opgewekt	adj	cheerful	Een opgewekte vrouwenstem kondigt het nieuws van vier uur aan.	"A cheerful female voice announces the four o'clock news."	1.36	
+Fiction_0333	achteren	adv	back	Ze schudde het blonde haar naar achteren.	She shook back the blond hair.	1.18	
+Fiction_0334	badkamer	noun, de	bathroom	De deur van de badkamer bleek op slot.	The door to the bathroom appeared to be locked.	1.99	
+Fiction_0335	vloeken	verb	to curse, to swear	Je mag niet vloeken in het bijzijn van kinderen.	You should not swear in front of children.	1.27	
+Fiction_0336	dankbaar	adj	grateful	Ze was dankbaar dat de maan voor het nodige licht zorgde.	She was grateful that the moon provided the necessary light.	2.65	
+Fiction_0337	hap	noun, de(m)	bite	Hij neemt een flinke hap.	He takes a big bite.	2.09	
+Fiction_0338	halverwege	adv	halfway	Haar dijen waren maar halverwege bedekt.	Her thighs were only halfway covered.	1.87	
+Fiction_0339	jongeman	noun, de(m)	young man	De jongeman met de koffer draait nu al een kwartier met het ijs in zijn glas.	The young man with the suitcase has been swirling the ice in his glass for fifteen minutes now.	3.77	
+Fiction_0340	schokken	verb	a) to shake, b) to shock	a) Ik voelde haar buik heen en weer schokken. b) Ze kreeg een rood hoofd en was duidelijk geschokt.	a) I felt her stomach jerk back and forth. b) She got a red head and was clearly shocked.	2.66	
+Fiction_0341	omlaag	adv	down	Hij voelde haar hand even tegen zijn been en keek omlaag.	He felt her hand against his leg for a moment and looked down.	2.09	
+Fiction_0342	hek	noun, het	fence	Dwars door het bos liep een hek.	Across the forest ran a fence.	2.01	
+Fiction_0343	genoegen	noun, het	pleasure	Het is een genoegen kennis met u te maken. tot mijn genoegen: Ik zie tot mijn genoegen dat ik precies op tijd ben.	It is a pleasure to make your acquaintance. to my pleasure: I am pleased to see that I am right on time.	2.41	
+Fiction_0344	wanhopig	adj	desperate	Ze speelt een wanhopige moeder.	She plays a desperate mother.	1.86	
+Fiction_0345	verwonderen	verb	to surprise	Ik was zeer verwonderd moeder thuis te trefffen.	I was very surprised to find mother at home.	1.90	
+Fiction_0346	betrappen	verb	to catch	Hij betrapte me toen ik naar hem keek.	He caught me looking at him.	5.54	
+Fiction_0347	stuur	noun, het	steering wheel, handlebars	Reeds van ver zagen we hem over het stuur van zijn fiets hangen.	Already from afar we could see him hanging over the handlebars of his bicycle.	3.26	
+Fiction_0348	ijzeren	adj	iron	Ik kon me nog net vastgrijpen aan een ijzeren stang van het portier.	I was just able to grab onto an iron bar of the door.	0.67	
+Fiction_0349	voorgoed	adv	permanently	De lege plaats zou voorgoed leeg blijven.	The empty place would remain empty forever.	1.75	
+Fiction_0350	druppel	noun, de(m)	drop	Een stille motregen spreidde een waaier vocht en fijne druppels in de takken.	A quiet drizzle spread a fan of moisture and fine droplets in the branches.	1.92	
+Fiction_0351	haten	verb	to hate	Ik haatte al die jongens.	I hated all those guys.	2.39	
+Fiction_0352	aanraken	verb	to touch	Ik wilde gewoon het papier even aanraken.	I just wanted to touch the paper for a while.	1.42	
+Fiction_0353	gestalte	noun, de(f)	shape	Haar kamer leek ineens kleiner door zijn robuuste gestalte.	Her room suddenly seemed smaller because of his robust stature.	1.64	
+Fiction_0354	chauffeur	noun, de(m)	driver	De chauffeur sluit de deuren en wil vertrekken.	The driver closes the doors and wants to leave.	5.95	
+Fiction_0355	plakken	verb	to stick	Hij plakte het gedicht tegen de gevel.	He pasted the poem against the facade.	3.07	
+Fiction_0356	heuvel	noun, de(m)	hill	De zon was al achter de heuvel en het begon kil te worden.	The sun was already behind the hill and it was starting to get chilly.	2.03	
+Fiction_0357	zoet	adj	sweet	De bloemen verspreiden een zoete geur.	The flowers emit a sweet fragrance.	2.83	
+Fiction_0358	verlichten	verb	to light, to illuminate	Een vuurpijl verlichtte de zee.	A flare lit up the sea.	2.13	
+Fiction_0359	ouderwets	adj	old-fashioned	Voor later lag er een stapel ouderwetse platen klaar.	For later, there was a stack of old-fashioned records ready.	2.82	
+Fiction_0360	schok	noun, de(m)	shock	De jongen veert met een schok rechtop.	The boy springs upright with a jolt.	1.65	
+Fiction_0361	tegemoet	adv	towards	Haar stem zweefde me van ver tegemoet.	Her voice floated to me from afar.	3.52	
+Fiction_0362	hersenen, hersens	noun, pl	brain	Zijn hersens werken op topsnelheid.	His brain is working at top speed.	2.50	
+Fiction_0363	medelijden	noun, het	pity	Hij had nu een beetje medelijden met haar.	He felt a little sorry for her now.	1.43	
+Fiction_0364	bevrijden	verb	to free	Hij bevrijdt zijn linkerarm en draait zich op zijn zij.	He frees his left arm and turns onto his side.	3.78	
+Fiction_0365	somber	adj	gloomy	Hesiodus was een ernstig, wat somber man.	Hesiod was a serious, somewhat somber man.	2.30	
+Fiction_0366	zuigen	verb	to suck	Onwillekeurig moest ik aan die vinger zuigen.	Involuntarily, I had to suck on that finger.	1.72	
+Fiction_0367	ontbijt	noun, het	breakfast	De volgende dag verlieten ze direct na het ontbijt het huis.	The next day they left the house immediately after breakfast.	2.21	
+Fiction_0368	woonkamer	noun, de	living room	In de woonkamer brandt een schemerlamp.	A twilight lamp is lit in the living room.	1.85	
+Fiction_0369	grijnzen	verb	to grin	Hij grijnsde tegen zijn vader en liep het doel in.	He grinned at his father and walked into the goal.	1.25	
+Fiction_0370	waaien	verb	to blow	Over het kerkhof waaide een koude wind.	A cold wind blew across the cemetery.	2.17	
+Fiction_0371	juffrouw	noun, de(f)	a) lady b) teacher	a) Er kwam een juffrouw binnen om koffie te brengen. b) Hij maakte het zijn juffrouw onmogelijk om te vertellen.	a) A teacher came in to bring coffee. b) He made it impossible for his teacher to tell.	0.99	
+Fiction_0372	doordringen	verb	to penetrate	Naarmate men dieper in het gewelf doordrong werd de atmosfeer heter en benauwder. doordringen tot: Het duurt even voordat de boodschap in voile hevigheid tot me doordringt.	As one penetrated deeper into the vault, the atmosphere became hotter and more oppressive. penetrate to: It takes a while for the message to penetrate me in fullness.	2.19	
+Fiction_0373	kreet	noun, de(m)	cry	Er stijgt een kreet vanaf het terrasje op.	A shout rises from the terrace.	1.25	
+Fiction_0374	heftig	adj	violent	Ze renden en maakten allerhande heftige gebaren.	They ran and made all kinds of violent gestures.	2.60	
+Fiction_0375	maan	noun, de	moon	Aan de hemel verschijnt de maan.	In the sky, the moon appears.	1.98	
+Fiction_0376	bukken (zich)	verb	to bend	Ze bukt zich en tekent lijnen door de sneeuw aan haar voeten.	She bends down and draws lines through the snow at her feet.	1.10	
+Fiction_0377	slap	adj	weak	Ze legt wat onwennig een slap handje in de mijne.	She somewhat uncomfortably places a limp hand in mine.	2.07	
+Fiction_0378	kwalijk	adj	evil, bad	Zijn kwalijke karaktereigenschappen hadden de overhand genomen.	His evil character traits had taken over.	2.35	
+Fiction_0379	logeren	verb	to stay	We logeerden in een hotelletje.	We stayed in a little hotel.	1.84	
+Fiction_0380	angstig	adj	anxious	Hij zag haar angstige blik.	He saw her anxious look.	1.35	
+Fiction_0381	sneeuw	noun, de	snow	De sneeuw smolt niet en de beelden bleven onveranderd.	The snow did not melt and the images remained unchanged.	2.41	
+Fiction_0382	omdraaien (zich)	verb	to turn (round)	Hij had zich omgedraaid en gezien dat zij het was.	He had turned around and seen that it was her.	1.81	
+Fiction_0383	stoep	noun, de	pavement	Met een hand aan de muur schuifelde hij over de stoep.	With one hand on the wall, he shuffled along the sidewalk.	1.52	
+Fiction_0384	bezorgen	verb	to give	Het was niet mijn bedoeling om jou onnodig werk te bezorgen.	It was not my intention to cause you unnecessary work.	4.64	
+Fiction_0385	onzeker	adj	uncertain	De onzekere toekomst heeft haar nog niet tot solliciteren gebracht.	The uncertain future has not yet led her to apply for jobs.	4.01	
+Fiction_0386	pijp	noun, de	pipe	Op zekere dag werd zijn pijp gestolen.	One day his pipe was stolen.	1.26	
+Fiction_0387	glad	adj	smooth	Haar natte gladde haar raakt net haar schouders.	Her wet slick hair just touches her shoulders.	2.11	
+Fiction_0388	kus	noun, de(m)	kiss	Sophie geeft haar een kus op haar mond.	Sophie gives her a kiss on the mouth.	1.96	
+Fiction_0389	koesteren	verb	to cherish	Mijn tong koesterde de wond boven mijn tanden.	My tongue nurtured the wound above my teeth.	3.15	
+Fiction_0390	spreiden	verb	to spread	Ze spreidde haar armen om de sneeuwvlokken te vangen. uitspreiden: Ze spreidde haar beide handen voor hem uit.	She spread her arms to catch the snowflakes. spread out: She spread both her hands out in front of him.	1.98	
+Fiction_0391	vatten	verb	to catch, to grasp	Voorzichtig vatte hij haar bij de arm.	Carefully he caught her by the arm.	5.17	
+Fiction_0392	ontmoeting	noun, de(f)	meeting	Urenlang vertelden zij elkaar over hun levens tot het moment van hun ontmoeting.	For hours they told each other about their lives until the moment they met.	3.60	
+Fiction_0393	moeizaam	adj	laborious	Ze wist dat het een moeizaam onderhoud zou worden.	She knew it would be an arduous maintenance.	2.77	
+Fiction_0394	koe	noun, de(f)	cow	Tussen de koeien stond ze in de verte te turen.	Between the cows she stood peering into the distance.	2.64	
+Fiction_0395	besef	noun, het	understanding	Je staat stil om tot het besef te komen dat je verdwaald bent.	You stand still only to come to the realization that you are lost.	2.69	
+Fiction_0396	ijs	noun, het	ice	De wilde eenden vriezen in groepen op het ijs van de ringvaart vast.	The mallards freeze in groups on the ice of the ring canal.	2.73	
+Fiction_0397	maaltijd	noun, de(m)	meal	Het werd tijd voor de maaltijd.	It was time for the meal.	2.70	
+Fiction_0398	geheugen	noun, het	memory	U hebt een uitstekend geheugen.	You have an excellent memory.	2.62	
+Fiction_0399	begeven	verb	to break down	Het slot had het begeven onder de druk van de nijptang. zich begeven: Zwaar leunend op een stok begeeft ze zich al krakend en kreunend naar het huisje.	The lock had given way under the pressure of the pincers. moving: Leaning heavily on a stick, she made her way to the cottage, creaking and groaning.	2.47	
+Fiction_0400	klank	noun, de(m)	sound	Geluid komt in golven en losse klanken op me af.	Sound comes to me in waves and loose sounds.	2.07	
+Fiction_0401	knop	noun, de(m)	button	Hij drukte op een knopje.	He pressed a button.	2.50	
+Fiction_0402	ontspannen	verb	to relax	Ze ontspande toen ze aan mijn gezicht zag dat het een grapje was.	She relaxed when she saw from my face that it was a joke.	2.22	
+Fiction_0403	hol	adj	hollow	De klarinet bestaat uit een cilindrische holle pijp met gaten.	The clarinet consists of a cylindrical hollow pipe with holes.	1.72	
+Fiction_0404	opgelucht	adj	relieved	De kapitein haalde opgelucht adem.	The captain breathed a sigh of relief.	1.87	
+Fiction_0405	hollen	verb	to run	Hij holt naar het station.	He hurries to the station.	1.14	
+Fiction_0406	grootvader	noun, de(m)	grondfather	Misschien hadden wij dit geërfd van moeders grootvader.	"Perhaps we had inherited this from mother's grandfather."	1.84	
+Fiction_0407	opwinding	noun, de(f)	excitement	Zijn stem klonk schor van opwinding.	His voice sounded hoarse with excitement.	1.25	
+Fiction_0408	verdomme	interj	damn	Hoe wisten ze dit verdomme allemaal?	How the hell did they know all this?	0.89	
+Fiction_0409	scheef	adj	crooked, oblique	Met een scheef hoofd bekijkt hij het werk van zijn moeder.	"With a crooked head, he looks at his mother's work."	1.86	
+Fiction_0410	verontschuldigen (zich)	verb	to excuse (oneself)	Hij verontschuldigde zich toen hij in de auto stapte.	He apologized as he got into the car.	1.48	
+Fiction_0411	gewoonlijk	adv	usually	De bus bleef er gewoonlijk een paar minuten wachten.	The bus usually kept waiting there for a few minutes.	2.26	
+Fiction_0412	verraden	verb	to betray	Het gezicht van de verpleegster verraadde niets.	"The nurse's face betrayed nothing."	1.84	
+Fiction_0413	zenuwachtig	adj	nervous	Ik ben een zenuwachtig mens, ik moet bewegen.	"I'm a nervous person, I have to move."	1.76	
+Fiction_0414	heup	noun, de	hip	Ze liep de keuken in terwijl ze overdreven met haar heupen wiegde.	She walked into the kitchen while rocking her hips excessively.	1.57	
+Fiction_0415	ernaar	adv	to it, at it, after it	De rechter keek ernaar met gefronst voorhoofd.	The judge looked at it with a furrowed brow.	2.31	
+Fiction_0416	onzichtbaar	adj	invisible	Hij tokkelde op een onzichtbaar snaarinstrument.	He strummed on an invisible stringed instrument.	1.86	
+Fiction_0417	bekennen	verb	to confess	Ik moet je bekennen dat het me een geweldige voldoening gaf.	I must confess to you that it gave me tremendous satisfaction.	2.93	
+Fiction_0418	hitte	noun, de(f)	heat	De hitte sloeg hem in het gezicht.	The heat hit him in the face.	2.15	
+Fiction_0419	moeilijkheid	noun, de(f)	difficulty	ledereen in dit gezin heeft moeilijkheden genoeg.	Everyone in this family has difficulties enough.	2.67	
+Fiction_0420	zakdoek	noun, de(m)	handkerchief	Met een zakdoek veegde hij zijn vingers schoon.	With a handkerchief, he wiped his fingers clean.	0.86	
+Fiction_0421	vanmiddag	adv	this afternoon	Omdat de lucht er helder uitziet gaan de vrouwen vanmiddag mee op uitstap.	Since the sky looks clear, the women will join us on an outing this afternoon.	2.74	
+Fiction_0422	fluiten	verb	to whistle	Ik heb me moeten inhouden om geen melodie te fluiten.	I had to restrain myself from whistling a melody.	2.10	
+Fiction_0423	hemd	noun, het	vest, shirt	Hij morste opzettelijk saus en rode wijn op zijn hemd.	He deliberately spilled sauce and red wine on his shirt.	1.22	
+Fiction_0424	spoedig	adv	soon	Frank verwacht dat hij spoedig wordt vrijgelaten.	Frank expects to be released soon.	1.80	
+Fiction_0425	aandachtig	adj	attentive	Het aandachtige publiek was muisstil.	The attentive audience was mouse silent.	1.14	
+Fiction_0426	alstublieft, alsjeblieft, a.u.b.		please	Een ogenblikje alstublieft. Bel me alsjeblieft snel. Zou mevrouw deze dames en heren a.u.b. al binnen willen laten.	One moment please. Please call me quickly. Would madam please let these ladies and gentlemen in already.	1.53	
+Fiction_0427	peinzen	verb	to ponder	Pas na moeizaam peinzen schoot me een antwoord te binnen.	Only after laborious pondering did an answer come to mind.	0.80	
+Fiction_0428	diepte	noun, de(f)	depth	In de diepte schittert een riviertje.	In the depths, a small river sparkles.	1.94	
+Fiction_0429	sluipen	verb	to sneak	Met zijn schoenen in de hand sluipt hij uit de zaal.	With his shoes in hand, he sneaks out of the room.	1.74	
+Fiction_0430	spotten	verb	to joke, to mock	Hij durfde het niet aan met de man van de belasting te spotten.	He did not dare to mock the man of the tax.	1.27	
+Fiction_0431	kreunen	verb	to groan	Hij kreunt van de pijn.	He groans in pain.	0.90	
+Fiction_0432	grinniken	verb	to chuckle	Ik moest grinniken om deze vraag.	I had to chuckle at this question.	0.82	
+Fiction_0433	troosten	verb	to comfort	Hij kon niets verzinnen om haar te troosten.	"He couldn't think of anything to comfort her."	1.38	
+Fiction_0434	overhemd	noun, het	shirt	Hij droeg een overhemd zonder boord en zijn broek hing aan bretels.	He wore a shirt with no collar and his pants hung from suspenders.	0.70	
+Fiction_0435	vaart	noun, de	speed	Hij minderde vaart, stopte midden op de weg en kwam uit zijn auto.	He slowed down, stopped in the middle of the road and got out of his car.	2.55	
+Fiction_0436	fantasie	noun, de(f)	fantasy	In menig opwindend detail overtrof de realiteit zelfs de fantasie.	In many an exciting detail, reality surpassed even fantasy.	2.15	
+Fiction_0437	wond	noun, de	wound	De wond was dicht bij de hartstreek.	The wound was close to the heart area.	1.61	
+Fiction_0438	duisternis	noun, de(f)	darkness	Buiten trad de duisternis in.	Outside, darkness set in.	1.08	
+Fiction_0439	kou	noun, de(f)	cold	Vanwege de kou mochten de kinderen tussen de middag niet naar huis.	Because of the cold, the children were not allowed to go home at noon.	1.95	
+Fiction_0440	roerloos	adj	motionless	Ik bleef roerloos zitten.	I remained motionless.	0.59	
+Fiction_0441	afloop	noun, de(m)	end	Na afloop van de toespraak is er gelegenheid om vragen te stellen.	There will be an opportunity to ask questions after the speech.	6.16	
+Fiction_0442	lui	noun, pl	people	Dat zouden die lui wel gauw merken!	Those people would soon notice!	1.56	
+Fiction_0443	hoorn	noun, de(m)	receiver, horn	Hij legde de hoorn neer en dacht na.	He put down the handset and thought.	0.94	
+Fiction_0444	vriendschap	noun, de(f)	friendship	Soms is het moeilijk voor de kinderen om vriendschap te sluiten.	Sometimes it is difficult for the children to make friends.	2.66	
+Fiction_0445	haak	noun, de(m)	hook	De jongen heeft de lamp aan de haak gehangen.	The boy hung the lamp on the hook.	1.80	
+Fiction_0446	parkeren	verb	to park	Hij parkeerde de auto aan de overkant.	He parked the car across the street.	5.14	
+Fiction_0447	portier	1) noun, het 2) noun, de(m)	1) door 2) doorkeeper	1) Hij deed het portier open en zette resoluut een been buiten het wagentje. 2) De portier vraagt me om mijn uitnodiging.	1) He opened the door and resolutely put one leg outside the cart. 2) The doorman asks me for my invitation.	1.19	
+Fiction_0448	taxi	noun, de(m)	taxi	Ik riep een taxi en ging naar huis.	I called a cab and went home.	1.64	
+Fiction_0449	beven	verb	to tremble	Hij beefde van spanning en onzekerheid.	He was trembling with excitement and uncertainty.	0.80	
+Fiction_0450	vreugde	noun, de(f)	joy	Een intense vreugde laait in haar op.	An intense joy flares up within her.	2.00	
+Fiction_0451	uniform	noun, de/het	uniform	Oorlog was een zaak van mannen in uniform.	War was a business of men in uniform.	1.64	
+Fiction_0452	pols	noun, de(m)	wrist	Later ziet ze op het horloge aan haar pols dat het acht voor vijf is.	Later, she sees on the watch on her wrist that it is eight to five.	1.50	
+Fiction_0453	rechterhand	noun, de	right hand	Zij pakte met twee handen mijn rechterhand vast.	She grabbed my right hand with two hands.	1.35	
+Fiction_0454	struik	noun, de(m)	bush	Snel sprang ze op en verborg zich achter een paar dorre struiken.	Quickly she sprang up and hid behind some barren bushes.	1.54	
+Fiction_0455	eenzaamheid	noun, de(f)	loneliness	De eenzaamheid leek niet te doorbreken.	The loneliness seemed unbreakable.	1.24	
+Fiction_0456	ruk	noun, de(m)	jerk	Met een ruk draait hij zijn hoofd af.	With a jerk, he turns his head away.	0.91	
+Fiction_0457	pan	noun, de	pan	Haar moeder zette de pannen op het vuur in de keuken.	Her mother put the pans on the stove in the kitchen.	2.35	
+Fiction_0458	graf	noun, het	grave	Stil en onbewogen staart de vrouw naar het graf.	Silently and impassively, the woman stares at the grave.	2.13	
+Fiction_0459	vannacht	adv	tonight, last night	Waarschijnlijk komt ze vannacht terug.	She will probably come back tonight.	1.94	
+Fiction_0460	wuiven	verb	to wave	Ik wuifde en ze wuifde terug.	I waved and she waved back.	1.07	
+Fiction_0461	dol	adj	crazy	Onze dolle spelletjes en wilde tochten lagen haar niet.	Our mad games and wild rides did not suit her.	2.38	
+Fiction_0462	opsteken	verb	to light up	Ik had een sigaretje opgestoken.	I had lit a cigarette.	1.78	
+Fiction_0463	emotie	noun, de(f)	emotion	Ik begreep dat ze het met opzet deed om haar emotie niet te verraden.	I understood that she did it on purpose so as not to betray her emotion.	3.70	
+Fiction_0464	slingeren	verb	to swing	De vrouw slingert hem voor mijn neus heen en weer.	The woman swings it back and forth in front of me.	2.06	
+Fiction_0465	hartelijk	adj	warm	Ze was een lieve hartelijke vrouw en ze deed veel voor ons allemaal.	She was a sweet hearted woman and she did a lot for all of us.	1.58	
+Fiction_0466	klappen	verb	to clap	Mensen om hem heen klapten braaf.	People around him clapped bravely.	1.87	
+Fiction_0467	laars	noun, de	boot	Hij maakte laarzen en sandalen.	He made boots and sandals.	1.59	
+Fiction_0468	elleboog	noun, de(m)	elbow	Hij plantte zijn elleboog op zijn dij en liet zijn hoofd op zijn gebalde vuist rusten.	He planted his elbow on his thigh and rested his head on his clenched fist.	1.01	
+Fiction_0469	vlam	noun, de	flame	Hij blies de vlam uit.	He blew out the flame.	2.71	
+Fiction_0470	gemeen	adj	mean	Niemand begreep waarom de studente zoveel gemene mails naar haar familieleden stuurde. gemeen hebben: Zij hadden niets met mij gemeen.	No one understood why the student sent so many mean emails to her family members. in common: They had nothing in common with me.	2.44	
+Fiction_0471	sissen	verb	to hiss	‘Stil,’ siste ze zacht.	"'Quiet,' she hissed softly."	0.65	
+Fiction_0472	verwarring	noun, de(f)	confusion	De aanblik had hem in verwarring gebracht.	The sight had confused him.	2.41	
+Fiction_0473	zojuist	adv	just (now)	Ze is zojuist uit de trein gestapt.	She just got off the train.	1.42	
+Fiction_0474	vanmorgen	adv	this morning	Hij belde me vanmorgen op.	He called me this morning.	2.83	
+Fiction_0475	pet	noun, de	cap, hat	Hij legt zijn pet en handschoenen op het bureau en gaat zitten.	He puts his cap and gloves on the desk and sits down.	1.88	
+Fiction_0476	praatje	noun, het	talk, chat	Mijn vrouw maakt een praatje met een oude man in een boot.	My wife makes small talk with an old man in a boat.	1.69	
+Fiction_0477	zwellen	verb	to swell	De oogleden waren gezwollen en droog.	The eyelids were swollen and dry.	0.98	
+Fiction_0478	ongeduldig	adj	impatient	Bij de halte staat een rij ongeduldige passagiers op een verlate buschauffeur te wachten.	At the stop, a line of impatient passengers waits for a delayed bus driver.	0.89	
+Fiction_0479	turen	verb	to stare	Weber tuurde naar de rook van zijn sigaar.	Weber peered at the smoke from his cigar.	0.72	
+Fiction_0480	geslacht	noun, het	sex	De leden van het vrouwelijke geslacht waren ernstig ondervertegenwoordigd.	Members of the female gender were severely underrepresented.	3.86	
+Fiction_0481	zoenen	verb	to kiss	Hij sloeg gulzig zijn armen om haar heen en zoende haar in haar hals.	He greedily wrapped his arms around her and kissed her on the neck.	0.82	
+Fiction_0482	boterham	noun, de	sandwich	Brenda belegde verse witte boterhammen met een dikke laag roomboter en brokken paté.	Brenda spread fresh white bread with a thick layer of butter and chunks of pâté.	1.90	
+Fiction_0483	doch	conj	but	Het was nog warm buiten, doch uit de rivier waaide een verfrissende wind.	It was still warm outside, yet from the river blew a refreshing breeze.	1.80	
+Fiction_0484	blozen	verb	to blush	De vraag deed haar blozen.	The question made her blush.	1.00	
+Fiction_0485	bidden	verb	to pray	Ik herinner me plotseling dat ik als jongetje altijd naar de wc moest als ik zat te bidden.	I suddenly remember that as a boy I always had to go to the bathroom when I was praying.	1.84	
+Fiction_0486	wonderlijk	adj	wonderful	De moeder had haar zondagse blouse aan en een wonderlijke chique hoed op.	The mother had on her Sunday blouse and a wonderfully chic hat.	1.36	
+Fiction_0487	lift	noun, de(m)	lift	Hij liep naar de lift.	He walked to the elevator.	2.39	
+Fiction_0488	betreden	verb	to enter	Een derde gast betrad de eetzaal.	A third guest entered the dining room.	1.78	
+Fiction_0489	drogen	verb	to dry	Ik zag hoe de vrouw haar tranen droogde.	I watched the woman dry her tears.	1.63	
+Fiction_0490	teleurstellen	verb	to disappoint	Hoe kan je nu teleurgesteld zijn?	How can you be disappointed?	3.61	
+Fiction_0491	arriveren	verb	to arrive	Vervolgens duurde het nog een tijd voor de taxi eindelijk arriveerde.	Then it took some time before the cab finally arrived.	2.91	
+Fiction_0492	zilveren	adj	silver	Om haar linker pols droeg ze een zilveren armband.	On her left wrist she wore a silver bracelet.	1.92	
+Fiction_0493	scheren	verb	to shave	ledere morgen scheer ik opnieuw de stoppels van mijn gezicht.	Every morning I shave the stubble off my face again.	1.82	
+Fiction_0494	brullen	verb	to roar	We hoorden haar een of ander liedje brullen.	We heard her roar some song.	1.26	
+Fiction_0495	vochtig	adj	moist	De vochtige kleding wordt in een trommel gedaan.	The damp clothing is put in a drum.	1.63	
+Fiction_0496	opkijken	verb	to look up	Net als ik wou opkijken, gaf ze me een stomp.	Just as I wanted to look up, she gave me a punch.	1.06	
+Fiction_0497	dwalen	verb	to wander	De volgende dag dwaalden we samen door ons beider geboortestad.	The next day we wandered together through both of our hometowns.	0.94	
+Fiction_0498	gloeien	verb	to glow	Ze leken door de stralen van de zon te gloeien.	They seemed to glow from the rays of the sun.	0.65	
+Fiction_0499	smijten	verb	to throw, to fling	Hij smijt de peer tegen de muur.	He throws the pear against the wall.	1.77	
+Fiction_0500	bescheiden	adj	modest	Ik heb ervaren dat werkelijk geleerde mensen uiterst bescheiden zijn.	I have found that truly learned people are extremely humble.	4.21	
+Fiction_0501	weglopen	verb	to walk away, to run away	Als ik dienst gehad had was dat meisje niet weggelopen.	If I had been on duty that girl would not have run away.	1.59	
+Fiction_0502	roos	noun, de	rose	Ze nam er drie rode rozen uit.	She took out three red roses.	2.35	
+Fiction_0503	bemoeien (zich)	verb	to interfere	Waar bemoeide hij zich eigenlijk wel mee?	What was he actually interfering with?	2.20	
+Fiction_0504	schoot	noun, de(m)	lap	Dan had je ook niet met je handen in je schoot kunnen gaan zitten.	Then you could not have sat down with your hands in your lap either.	1.73	
+Fiction_0505	zeuren	verb	to whine, to nag	Daarom begon hij te zeuren over de brug.	"That's why he started whining about the bridge."	1.74	
+Fiction_0506	snuiven	verb	to sniff	Hij snoof aan me maar ik had niets gedronken.	"He sniffed me but I hadn't drunk anything."	0.88	
+Fiction_0507	overvallen	verb	to surprise, to overtake	Het gevoel overviel hem nu hij op zijn vaste plaats aan de tafel ging zitten.	The feeling overtook him now that he was sitting in his regular spot at the table.	2.68	
+Fiction_0508	langzamerhand	adv	gradually	Het werd zo langzamerhand tijd om tot actie over te gaan.	It was about time to take action.	1.45	
+Fiction_0509	schedel	noun, de(m)	skull	Ik staar naar de ouderling die met een witte zakdoek zijn schedel droog wrijft.	I stare at the elder rubbing his skull dry with a white handkerchief.	1.06	
+Fiction_0510	deuropening	noun, de(f)	doorway	Ik bleef een paar minuten in de deuropening staan.	I remained in the doorway for a few minutes.	0.54	
+Fiction_0511	onderdrukken	verb	to suppress	Ik onderdrukte de neiging om een vurige rede te houden.	I suppressed the urge to make a fiery speech.	1.95	
+Fiction_0512	likken	verb	to lick	Hij likte met zijn tong langs zijn droge lippen.	He licked his tongue along his dry lips.	0.97	
+Fiction_0513	afwezig	adj	absent	Soms bleef ze twee weken afwezig.	Sometimes she would stay absent for two weeks.	2.29	
+Fiction_0514	krul	noun, de	curl	Fleur herkent de jongen met de rossige krullen uit de bioscoop.	Fleur recognizes the boy with the reddish curls from the movie theater.	0.78	
+Fiction_0515	giechelen	verb	to giggle	Ze giechelde als een van de schoolmeisjes in de autobus.	She giggled like one of the schoolgirls on the bus.	0.63	
+Fiction_0516	dekken	verb	to cover	De verzekering dekt de schade. de tafel dekken: Ik dekte de tafel en hij kwam bij ons zitten toen we gingen eten.	The insurance will cover the damage. to set the table: I set the table and he joined us when we ate.	2.36	
+Fiction_0517	kont	noun, de	bottom	De blondine rechtte haar schouders en draaide met haar kont.	The blonde straightened her shoulders and twisted her butt.	1.18	
+Fiction_0518	verbeelding	noun, de(f)	imagination	Er zou weinig aan de verbeelding worden overgelaten.	Little would be left to the imagination.	2.10	
+Fiction_0519	versleten	adj	worn	Op de versleten handdoek lag haar zonnebril.	On the worn towel were her sunglasses.	1.75	
+Fiction_0520	grootmoeder	noun, de(f)	grondmother	Ik kreeg dat geld van mijn grootmoeder.	I got that money from my grandmother.	1.52	
+Fiction_0521	ontroeren	verb	to move	Deze woorden zouden haar pas later ontroeren.	These words would not move her until later.	1.37	
+Fiction_0522	amuseren (zich)	verb	to amuse	Mijn vrouw scheen zich kostelijk te amuseren.	My wife seemed to be having a great time.	2.11	
+Fiction_0523	bek	noun, de(m)	mouth	De bek ging wijd open maar sloot direct daarna weer.	The mouth opened wide but closed again immediately after.	1.55	
+Fiction_0524	schaamte	noun, de(f)	shame	Ik kon wel in de grond kruipen van schaamte.	I could crawl into the ground in shame.	1.24	
+Fiction_0525	portret	noun, het	portrait	Misschien gaat hij mijn portret wel schilderen.	Maybe he will paint my portrait.	3.14	
+Fiction_0526	aardappel	noun, de(m)	potato	Soms aten we alleen aardappelen.	Sometimes we ate only potatoes.	1.83	
+Fiction_0527	plas	noun, de(m)	puddle	Buiten rijdt een auto door de plassen.	Outside, a car drives through the puddles.	1.46	
+Fiction_0528	ruw	adj	rough	Als kind hield hij al van ruwe spelletjes.	As a child, he loved rough games.	2.02	
+Fiction_0529	spoelen	verb	to wash	Soms spoelen de golven over mijn schoenen.	Sometimes the waves wash over my shoes.	1.39	
+Fiction_0530	hel	noun, de	hell	Het was als een tafereel uit de hel.	It was like a scene from hell.	2.26	
+Fiction_0531	haasten (zich)	verb	to hurry	Het verkeer haastte zich langs ons.	Traffic rushed past us.	1.09	
+Fiction_0532	lichten	verb	to lift	Bep deed de deur open en hij lichtte zijn hoed.	Bep opened the door and he lifted his hat.	2.64	
+Fiction_0533	begrafenis	noun, de(f)	funeral	Enige weken na de begrafenis ging ik er heen en zocht een steen uit.	A few weeks after the funeral, I went there and picked out a stone.	2.15	
+Fiction_0534	engel	noun, de(m)	angel	De engel draait zich om en zweeft de kleedkamer in.	The angel turns around and floats into the locker room.	2.06	
+Fiction_0535	irriteren	verb	to irritate	De stemmen die mij ergeren en irriteren kan ik meteen tot zwijgen brengen.	The voices that annoy and irritate me I can immediately silence.	1.49	
+Fiction_0536	onrustig	adj	restless	Ze sloot haar ogen en sliep onrustig in.	She closed her eyes and slept restlessly.	1.32	
+Fiction_0537	huiskamer	noun, de	living room	De huiskamer was groter en de keuken was apart ernaast.	The living room was larger and the kitchen was separate from it.	1.27	
+Fiction_0538	sok	noun, de	sock	Hij ging zitten en trok zijn schoenen en sokken uit.	He sat down and took off his shoes and socks.	1.15	
+Fiction_0539	verrassing	noun, de(f)	surprise	Haar antwoord kwam wel als een verrassing.	Her answer did come as a surprise.	5.03	
+Fiction_0540	uitgeput	adj	exhausted	Ik voelde me misselijk en uitgeput.	I felt nauseous and exhausted.	1.49	
+Fiction_0541	groeten	verb	to greet	Zij groette mij met de grootste achting.	She greeted me with the utmost regard.	0.81	
+Fiction_0542	rinkelen	verb	to ring	In het huisje rinkelde de telefoon.	Inside the cottage, the phone was ringing.	1.08	
+Fiction_0543	struikelen	verb	to stumble	Bij het eerste warenhuis struikelt mijn vader over een plank die op het pad ligt.	At the first department store, my father trips over a plank lying on the path.	1.22	
+Fiction_0544	bewondering	noun, de(f)	admiration	Ze kijkt me diep in de ogen met een blik vol bewondering en liefde.	She looks deep into my eyes with a look full of admiration and love.	1.69	
+Fiction_0545	ontwijken	verb	to avoid	Daniël stond naast haar moeder en ontweek haar blik.	Daniel stood next to her mother and avoided her gaze.	1.49	
+Fiction_0546	prikken	verb	to prick	De stekels van een kastanje prikten in mijn nek.	The spines of a chestnut pricked my neck.	1.66	
+Fiction_0547	wanhoop	noun, de	despair	Op maandagavond was hij de wanhoop ten prooi.	On Monday night, he was prey to despair.	1.38	
+Fiction_0548	lusten	verb	to like	Ik zou wel een glas wijn lusten.	I would love a glass of wine.	1.74	
+Fiction_0549	zonlicht	noun, het	sunlight	Het zonlicht door de overkapping zette alles in een roze gloed.	The sunlight through the canopy put everything in a pink glow.	0.91	
+Fiction_0550	hak	noun, de	heel	Schoenen met hakken worden uit de productie genomen.	Shoes with heels are taken out of production.	1.39	
+Fiction_0551	ontwaken	verb	to wake up	Toen ik ontwaakte zag ik dat het pas half acht was.	When I awoke I saw that it was only 7:30.	1.03	
+Fiction_0552	wijf	noun, het	woman, broad	Die vrouw is geen dame, maar een wijf, een viswijf.	That woman is not a lady, but a female, a fishwife.	0.97	
+Fiction_0553	bladeren	verb	to glance through	Hij heeft een fotoalbum op zijn schoot waar hij in bladert.	He has a photo album on his lap that he is leafing through.	0.74	
+Fiction_0554	halfuur	noun, het	half (an) hour	Ik zit hier al een goed halfuur en al die tijd heeft ze gedanst.	"I've been sitting here for a good half hour and all that time she has been dancing."	2.75	
+Fiction_0555	kaars	noun, de	candle	Bij elke kaars maakt hij een diepe bulging en blaast ze uit.	With each candle, he makes a deep bulge and blows them out.	1.86	
+Fiction_0556	opluchting	noun, de(f)	relief	Tot mijn opluchting waren we nu blijkbaar voorbij de gevaarlijke klippen.	To my relief, we were now apparently past the dangerous cliffs.	1.61	
+Fiction_0557	zolder	noun, de(m)	loft	Ik heb een kamertje op zolder.	I have a little room in the attic.	1.72	
+Fiction_0558	verdomd	adj	damn(ed)	Wat verdomde leuk dat je er weer bent!	"How darn nice that you're back!"	0.82	
+Fiction_0559	loslaten	verb	to let go, to release	Geen van beiden wilden we loslaten.	Neither of us wanted to let go.	1.99	
+Fiction_0560	begroeten	verb	to greet	Ik stond onmiddellijk op van mijn stoel en begroette hem eerbiedig.	I immediately rose from my chair and greeted him respectfully.	1.16	
+Fiction_0561	piepen	verb	to squeak	De deur piepte een beetje.	The door squeaked a little.	1.04	
+Fiction_0562	sigaar	noun, de	cigar	Hij haalde zijn lucifers uit zijn zak en stak zijn sigaar aan.	He pulled his matches from his pocket and lit his cigar.	0.89	
+Fiction_0563	kraan	noun, de	tap, crane	In de keuken draai ik de kraan wijdopen.	In the kitchen, I turn the faucet wide.	1.81	
+Fiction_0564	verheffen (zich)	verb	to rise	Een rotswand verhief zich op enige afstand.	A rock wall loomed some distance away.	1.75	
+Fiction_0565	venster	noun, het	window	Ik begrijp waarom de huizen hier zulke kleine vensters hebben.	I understand why the houses here have such small windows.	1.44	
+Fiction_0566	lap	noun, de(m)	rag	Voor de ruiten hingen vieze lappen.	Dirty rags hung in front of the windows.	1.34	
+Fiction_0567	voetstap	noun, de(m)	footstep	Eindelijk horen we voetstappen naderen.	Finally we hear footsteps approaching.	0.56	
+Fiction_0568	uitsteken	verb	a) to hold out b) to stick/stand out	a) Ze stelde hem voor aan de blonde atleet die de hand uitstak. b) Ze kon de bovenzijde van de mast zien uitsteken boven de hoge oever.	a) She introduced him to the blond athlete who held out the hand. b) She could see the top of the mast sticking out above the high bank.	1.41	
+Fiction_0569	driftig	adj	angry, short-tempered	Het is een uitermate driftige man.	It is an extremely adrift man.	0.76	
+Fiction_0570	hoer	noun, de(f)	whore	Dit was de buurt van dronkenlappen, matrozen en hoeren.	This was the neighborhood of drunks, sailors and whores.	1.32	
+Fiction_0571	verbijsteren	verb	to bewilder	Wat die mensen mij allemaal toevertrouwen, verbijstert me soms.	What all these people confide in me sometimes baffles me.	1.19	
+Fiction_0572	eigenaardig	adj	peculiar	Wel merkte ik een eigenaardige lucht op.	However, I did notice a peculiar smell.	1.30	
+Fiction_0573	douche	noun, de	shower	De volgende morgen stond ik zingend onder de douche.	The next morning I was in the shower singing.	2.09	
+Fiction_0574	spier	noun, de	muscle	Ze boog nog verder naar voren en spande haar spieren maar ze kwam niet omhoog.	"She bent forward even further and tensed her muscles but she didn't come up."	1.60	
+Fiction_0575	opbellen	verb	to call (up)	Ze zou opbellen en vertellen wat er was gebeurd.	She would call and tell what had happened.	1.15	
+Fiction_0576	handdoek	noun, de(m)	towel	Colette keek hem met de handdoek in de hand beduusd na.	Colette looked at him, towel in hand, perplexed.	1.31	
+Fiction_0577	gevel	noun, de(m)	façade	De ramen tekenden zich als oranje vakken af tegen de zwarte gevels.	The windows drew in as orange squares against the black facades.	2.27	
+Fiction_0578	schelden	verb	to curse	Ik was kwaad op mijzelf omdat ik tegen die arme jongen had staan schelden.	I was angry with myself for standing up to the poor guy.	1.65	
+Fiction_0579	bot	noun, het	bone	Al zijn botten deden hem zeer.	All his bones were hurting him.	1.85	
+Fiction_0580	straal	noun, de	beam	Met die herinnering brak opeens een heldere straal zonlicht door de wolken.	With that memory, a bright beam of sunlight suddenly broke through the clouds.	1.51	
+Fiction_0581	emmer	noun, de(m)	bucket	Ik kwam terug met een pot thee en een emmer water.	I came back with a pot of tea and a bucket of water.	1.26	
+Fiction_0582	snor	noun, de(m)	moustache	Hij had lang haar en een dunne snor.	He had long hair and a thin mustache.	1.00	
+Fiction_0583	grauw	adj	grey	Ik zie grauwe mannetjes automatische bewegingen maken.	I see gray-haired males making automatic movements.	0.89	
+Fiction_0584	vluchtig	adj	brief, quick	Hij bracht een vluchtig bezoek aan zijn ouders.	He paid a fleeting visit to his parents.	0.81	
+Fiction_0585	persen	verb	to press	Het hout kraakte toen hij zijn achterwerk tussen de leuningen perste.	The wood creaked as he squeezed his butt between the railings.	1.33	
+Fiction_0586	plechtig	adj	solemn	In een plechtig stilzwijgen reden ze naar haar huis.	In solemn silence they drove to her house.	1.23	
+Fiction_0587	mand	noun, de	basket	In iedere mand zit eten genoeg om met een groot gezin de kerstdagen door te komen.	There is enough food in each basket to get a large family through Christmas.	1.29	
+Fiction_0588	meegaan	verb	to go (along) with	Toch was hij met hem meegegaan.	Yet he had gone with him.	1.96	
+Fiction_0589	ontgaan	verb	to escape	Niets in huis ontging haar.	Nothing in the house eluded her.	1.51	
+Fiction_0590	intens	adj	intense	Hij pakte het speelgoed aan met een blik van intense blijdschap.	He accepted the toy with a look of intense joy.	2.27	
+Fiction_0591	vergeven	verb	to forgive	Zou je mij kunnen vergeven?	Could you forgive me?	1.79	
+Fiction_0592	tamelijk	adv	rather	Links lag een tamelijk groot huis.	On the left was a rather large house.	1.69	
+Fiction_0593	troost	noun, de(m)	comfort	Dit werk schenkt mij troost.	This work gives me comfort.	1.59	
+Fiction_0594	baard	noun, de(m)	beard	Tegenover hem zat een forse man met een reusachtige zwarte baard.	Across from him sat a burly man with a giant black beard.	1.24	
+Fiction_0595	poetsen	verb	to clean	Ik begon mijn tanden te poetsen.	I began to brush my teeth.	1.51	
+Fiction_0596	verbreken	verb	to break up/off	Na deze woorden verbrak hij de verbinding.	After these words, he broke the connection.	2.21	
+Fiction_0597	wringen	verb	to worm	Hij wrong zich door een gat in de planken in het souterrain.	He wriggled through a hole in the shelves in the basement.	1.62	
+Fiction_0598	tapijt	noun, het	carpet	Ze gaat op het tapijt aan de andere kant van de deur zitten.	She sits down on the carpet on the other side of the door.	1.21	
+Fiction_0599	zenuw	noun, de	nerve	Ik heb geen oog dichtgedaan van de zenuwen.	"I didn't sleep a wink from the nerves."	1.85	
+Fiction_0600	geheimzinnig	adj	mysterious	De maan liet een geheimzinnig licht schijnen over de rotsen.	The moon was shining a mysterious light over the rocks.	0.99	
+Fiction_0601	volmaakt	adj	perfect	Ze zegt dat ze hier pas volmaakt gelukkig is.	She says she is only perfectly happy here.	0.80	
+Fiction_0602	koek, koekje	noun, de(m)/het	biscuit	Ze doopte haar koek in haar kop koffie. Toen hebben we in haar keuken koekjes gebakken.	She dipped her cookie in her cup of coffee. Then we baked cookies in her kitchen.	1.84	
+Fiction_0603	schuur	noun, de	barn, shed	Achter het pand lag een weiland waarop een schuur stond.	Behind the property was a pasture on which a barn stood.	1.21	
+Fiction_0604	nietwaar	interj	is(n’t) it	Men kan de tijd niet terugzetten, nietwaar?	One cannot turn back time, can one?	1.07	
+Fiction_0605	spijten	verb	to regret	Het spijt me dat ik dat van daarnet allemaal tegen je gezegd heb.	"I'm sorry I said all that to you from just now."	1.01	
+Fiction_0606	vrijen	verb	to make love	In een kuil ligt een koppeltje te vrijen.	In a pit, a couple is making love.	1.18	
+Fiction_0607	horizon	noun, de(m)	horizon	Om precies negen uur is het laatste restje van de zon achter de horizon weggezakt.	"At exactly nine o'clock, the last vestige of the sun sank behind the horizon."	1.14	
+Fiction_0608	daarnet	adv	just (now)	De postbode heeft ons daarnet nog gezien.	The letter carrier saw us just now.	0.91	
+Fiction_0609	hok	noun, het	shed	Hij leunde tegen het hok.	He leaned against the loft.	1.15	
+Fiction_0610	meubel	noun, het	piece of furniture	Op enkele goedkope meubelen na was het vertrek bij na leeg.	Except for some cheap furniture, the room was almost empty.	1.77	
+Fiction_0611	erachter	adv	behind (it, them)	Ze staarden naar het fabriekje en naar de weilanden erachter.	They stared at the little factory and at the meadows behind it.	1.71	
+Fiction_0612	knopen	verb	to knot, to tie	De jongeman kon zijn das niet knopen.	The young man could not knot his tie.	1.42	
+Fiction_0613	druipen	verb	to drip	Het water droop glinsterend van de muur.	The water dripped glisteningly from the wall.	0.90	
+Fiction_0614	stiekem	adj	secret	Hij maakt geen stiekeme afspraakjes meer met zijn secretaresse.	He no longer makes sneaky dates with his secretary.	2.02	
+Fiction_0615	spannen (zich)	verb	to tense, to tighten	Ik voel hoe zijn spieren zich spannen bij iedere voorzichtige stap.	I feel how his muscles tighten with each tentative step.	1.97	
+Fiction_0616	soep	noun, de	soup	Hij houdt zijn neus boven de pan soep.	He holds his nose above the pan of soup.	1.79	
+Fiction_0617	geduldig	adj	patient	Het was een vriendelijke en geduldige jongen.	He was a kind and patient boy.	1.03	
+Fiction_0618	zweten	verb	to sweat	In een rubber jas ga je zweten.	"In a rubber jacket, you're going to sweat."	1.00	
+Fiction_0619	staal	noun, het	steel	Op een kostbare bank van leer en staal zit hij een weinig onderuitgezakt.	On an expensive couch of leather and steel, he sits a little lower.	2.87	
+Fiction_0620	geleiden	verb	to guide, to lead	De engelen geleiden haar naar het paradijs.	The angels lead her to paradise.	1.96	
+Fiction_0621	ongerust	adj	anxious	Een ongeruste man zou de vermissing van zijn vrouw onmiddellijk aangeven.	"A worried husband would immediately report his wife's missing."	1.59	
+Fiction_0622	uitstrekken	verb	to reach out	Onder het gesteven beddengoed zal ze haar armen naar hem uitstrekken.	Under the starched bedding, she will extend her arms to him.	1.24	
+Fiction_0623	balkon	noun, het	balcony	Op de eerste verdieping hadden ze rond het huis een balkon met een balustrade getimmerd.	On the second floor, they had built a balcony with a balustrade around the house.	1.18	
+Fiction_0624	nest	noun, het	nest	Het vogeltje schrok zo dat hij meteen het nest verliet.	The little bird was so startled that it immediately left the nest.	1.92	
+Fiction_0625	wagen (zich)	verb	to risk	Ik waag me niet ver omdat ik bang ben te verdwalen.	"I don't venture far because I'm afraid of getting lost."	2.88	
+Fiction_0626	kier	noun, de	crack	Zachtjes opent ze het raam op een kier.	Gently, she opens the window ajar.	0.73	
+Fiction_0627	linkerhand	noun, de	left hand	Mijn linkerhand tastte naar de schakelaar en haalde hem over.	My left hand groped for the switch and pulled it.	0.66	
+Fiction_0628	wal	noun, de(m)	quay	Vroeger werden vrachtschepen over de Maas gesleept door een rijtje mannen op de wal. voet aan wal zetten: We gaan voet aan wal zetten.	In the old days, cargo ships were towed across the Meuse River by a line of men on the shore. setting foot ashore: We are going to set foot on the shore.	1.78	
+Fiction_0629	grommen	verb	to growl	Hij begon te grommen en te snuiven als een echt wild zwijn.	He began to growl and snort like a real wild boar.	0.62	
+Fiction_0630	onverschillig	adj	indifferent	De onverschillige kerel doet zijn werk niet goed.	The indifferent guy is not doing his job properly.	0.72	
+Fiction_0631	drempel	noun, de(m)	threshold, doorstep	De vrouw wachtte op de drempel van haar woning de familie en gasten af.	The woman waited on the threshold of her home for family and guests to arrive.	1.88	
+Fiction_0632	smeren	verb	to spread, to butter	Hij zit met blote voeten aan tafel een boterham te smeren.	He sits barefoot at the table making a sandwich.	1.57	
+Fiction_0633	omhelzen	verb	to embrace	Zonder iets te zeggen omhelsde ik haar en drukte mijn gezicht in haar hals.	Without saying anything, I hugged her and pressed my face into her neck.	0.75	
+Fiction_0634	kaak	noun, de	jaw	Hij perste zijn kaken op elkaar en hinkte naar beneden.	He squeezed his jaws together and hobbled down.	1.49	
+Fiction_0635	ketting	noun, de	chain	Ze had een prachtige rode jurk aan en een gouden ketting om.	She had on a beautiful red dress and a gold chain.	1.44	
+Fiction_0636	onttrekken (zich)	verb	to withdraw	Al een poosje is ze zich vaag bewust van een aanwezigheid die zich aan haar waarneming onttrekt.	For some time, she has been vaguely aware of a presence that eludes her perception.	1.40	
+Fiction_0637	overheen	adv	across, over	Hij nam zijn boek op en staarde er overheen.	He picked up his book and stared over it.	1.24	
+Fiction_0638	minnaar	noun, de(m)	lover	Ze herinnert zich de ogen van haar minnaars.	She remembers the eyes of her lovers.	0.99	
+Fiction_0639	onvermijdelijk	adj	inevitable	Dat leidt weer tot de onvermijdelijke vraag wat er dan wel is gebeurd.	This in turn leads to the inevitable question of what did happen.	2.87	
+Fiction_0640	verheugen (zich)	verb	to be happy	Ik verheugde me verschrikkelijk op het etentje.	I was terribly looking forward to the dinner.	1.66	
+Fiction_0641	nieuwsgierigheid	noun, de(f)	curiosity	Mijn ergernis maakte enigszins plaats voor nieuwsgierigheid.	My annoyance gave way somewhat to curiosity.	1.04	
+Fiction_0642	oneindig	adj	infinite	Hij zag het met een gevoel van oneindige opluchting.	He watched it with a sense of infinite relief.	1.40	
+Fiction_0643	genot	noun, het	delight	Het werkelijk genot moest nog beginnen.	The real pleasure had yet to begin.	1.11	
+Fiction_0644	treurig	adj	sad	Waarom moeten treurige mensen altijd getroost worden?	Why do sad people always need to be comforted?	1.06	
+Fiction_0645	knielen	verb	to kneel	Hij knielde voor haar om haar schaatsen te controleren.	He knelt in front of her to check her skates.	0.53	
+Fiction_0646	voorbijgaan	verb	to pass	Het ogenblik was voorbijgegaan en toen had zij weer gezwegen.	The moment had passed and then she had been silent again.	1.37	
+Fiction_0647	scène	noun, de	scene	De scènes zijn voorzien van duidelijke ondertitels die ook zonder bril te lezen zijn.	The scenes have clear subtitles that can be read even without glasses.	2.86	
+Fiction_0648	verdiepen (zich)	verb	to go into, to be caught up in	Ze verdiepte zich weer in de krant.	She immersed herself in the newspaper again.	1.79	
+Fiction_0649	plagen	verb	to tease	Berber plaagde hem met zijn overslaande stem.	Berber teased him with his skipping voice.	1.57	
+Fiction_0650	gretig	adj	eager	Hij toonde zich een gretige leerling.	He showed himself to be an eager learner.	1.97	
+Fiction_0651	mat	noun, de	mat	We lieten onze schoenen achter op de mat.	We left our shoes on the mat.	1.49	
+Fiction_0652	vingertop	noun, de(m)	fingertip	Onze vingertoppen raakten elkaar en ik zag haar hand en haar arm trillen.	Our fingertips touched and I saw her hand and her arm tremble.	0.48	
+Fiction_0653	afschuwelijk	adj	horrible	Het opruimen van andersmans troep vind ik echt afschuwelijk werk.	"Cleaning up other people's junk is really horrible work for me."	1.29	
+Fiction_0654	wankelen	verb	to stagger	Hij wankelde naar de bank en viel terstond in slaap.	He staggered to the couch and promptly fell asleep.	0.88	
+Fiction_0655	dof	adj	dull	Zij staarde met doffe ogen naar de muur.	She stared at the wall with dull eyes.	0.68	
+Fiction_0656	krijsen	verb	to shriek, to scream	Ze gilt en ze krijst dat het door het hele huis te horen is.	She screams and she squawks that it can be heard throughout the house.	0.73	
+Fiction_0657	snikken	verb	to sob	Zij sloeg haar handen voor de ogen en snikte.	She clasped her hands in front of her eyes and sobbed.	0.54	
+Fiction_0658	erom	adv	around it	Het cadeau was verpakt met een strik erom.	The gift was wrapped with a bow on it.	1.72	
+Fiction_0659	blinken	verb	to shine	Hun huiden blonken als zilver.	Their skins shone like silver.	1.34	
+Fiction_0660	wenken	verb	to beckon	Hij wenkt dat ze mee moet gaan en reikt haar zijn verrekijker over.	He beckons for her to come along and hands her his binoculars.	0.74	
+Fiction_0661	kruisen	verb	to cross	Weer kruisten we de boulevard om naar het kleine café te gaan dichtbij het hotel.	Again we crossed the boulevard to go to the little café near the hotel.	1.55	
+Fiction_0662	razen	verb	a) to race b) to rage	a) Het verkeer raasde langs ons heen. b) Het beest raasde als een dolle heen en weer.	a) The traffic raced past us. b) The animal raced back and forth like a madman.	1.28	
+Fiction_0663	hijzelf	pron	himself	Hijzelf had het me gevraagd.	He himself had asked me.	1.20	
+Fiction_0664	opendoen	verb	to open	Er werd aan de poort gebeld en hij ging opendoen.	The doorbell rang and he went to open it.	0.81	
+Fiction_0665	koperen	adj	copper	Het koperen plaatje naast de deur verschafte meer uitleg.	The brass plate next to the door provided more explanation.	0.70	
+Fiction_0666	fraai	adj	beautiful	Onder de platanen is een fraai terras gekomen.	Under the plane trees, a beautiful terrace has been created.	3.90	
+Fiction_0667	whisky	noun, de(m)	whisky	Een beetje onrustig dronken ze aan de bar van hun whisky.	A little uneasy, they sipped their whiskey at the bar.	0.71	
+Fiction_0668	gebaren	verb	to gesture	Ze zei niets en gebaarde dat hij haar moest volgen.	She said nothing and gestured for him to follow her.	0.60	
+Fiction_0669	villa	noun, de	villa	Via de veranda betraden ze de moderne villa.	Through the porch, they entered the modern villa.	2.33	
+Fiction_0670	verontwaardigd	adj	outraged, indignant	Moeder en vader staan er verontwaardigd bij.	Mother and father stand there indignantly.	1.38	
+Fiction_0671	krabben	verb	to scratch	Bomdal krabde op zijn hoofd.	Bomdal scratched his head.	0.84	
+Fiction_0672	zweren	verb	to swear	Men zou kunnen zweren dat iemand het huis verplaatst had.	One could swear that someone had moved the house.	1.71	
+Fiction_0673	oprapen	verb	to pick up	Ik raapte mijn fiets op uit de greppel.	I picked up my bike from the ditch.	1.35	
+Fiction_0674	kachel	noun, de	stove, heater	De kachel kon niet aan omdat we vergeten hadden petroleum te halen.	The stove could not be lit because we had forgotten to get petroleum.	0.70	
+Fiction_0675	verzinken	verb	to sink	In gedachten verzonken wandelde hij naar huis.	Lost in thought, he walked home.	0.67	
+Fiction_0676	bloeden	verb	to bleed	Hij viel en bloedde uit zijn neus.	He fell and bled from his nose.	1.32	
+Fiction_0677	tik	noun, de(m)	tap	Nu stapte hij onverhoeds binnen na een stevige tik op de deur.	Now he stepped in unexpectedly after a firm tap on the door.	1.18	
+Fiction_0678	rillen	verb	to shiver	Als je rilt produceert het lichaam warmte om de lichaamstemperatuur op peil te houden.	When you shiver, the body produces heat to maintain body temperature.	0.47	
+Fiction_0679	doodstil	adj	stock-still	Ma deze mededeling was de hele klas doodstil.	Ma this announcement the whole class was dead silent.	0.46	
+Fiction_0680	raadsel	noun, het	mystery	Het gehele raadsel is terug te brengen tot een kwestie van woordkeus!	The entire conundrum can be reduced to a matter of word choice!	1.81	
+Fiction_0681	onrust	noun, de	unrest	Bij de schipper leek het eerder verveling dan onrust die hem als een pendel heen en weer bewoog.	"In the skipper's case, it seemed boredom rather than restlessness that moved him back and forth like a pendulum."	2.44	
+Fiction_0682	onhandig	adj	awkward	Een onhandige poging haar even te omarmen weerde zij af.	She fended off an awkward attempt to embrace her for a moment.	1.17	
+Fiction_0683	beroerd	adj	miserable	Ik voelde me bang en beroerd.	I felt scared and bereft.	1.28	
+Fiction_0684	poes	noun, de	cat	In zijn hand had hij het schoteltje met melk voor de poezen.	In his hand he had the saucer of milk for the cats.	1.05	
+Fiction_0685	kraag	noun, de(m)	collar	Ze greep aan weerskanten de kraag van haar overhemd.	She gripped the collar of her shirt on either side.	0.99	
+Fiction_0686	fronsen	verb	to frown	Ze fronst vragend het voorhoofd.	She frowns questioningly at the forehead.	0.71	
+Fiction_0687	huiveren	verb	to shiver	Ze huiverde van zijn koude handen.	She shuddered at his cold hands.	0.59	
+Fiction_0688	overhandigen	verb	to hand (over)	Hij zou haar onder vier ogen haar cadeau kunnen overhandigen.	He could present her with her gift in private.	2.46	
+Fiction_0689	tafereel	noun, het	scene	Het gaf een nogal wonderlijk tafereel te zien.	It presented a rather wondrous scene.	1.40	
+Fiction_0690	stikken	verb	to choke	Toen ik dreigde te stikken, haalde hij me naar boven.	When I was in danger of choking, he pulled me upstairs.	1.04	
+Fiction_0691	vreten	verb	to stuff	Hij vrat alles, vis, vlees, kaas, worst.	He ate everything, fish, meat, cheese, sausage.	1.05	
+Fiction_0692	daarachter	adv	behind it, behind them	Het gordijn stond op een kier; daarachter had hij zoeven nog gestaan.	The curtain was ajar; behind it he had just stood.	1.02	
+Fiction_0693	echtpaar	noun, het	couple	Een ouder echtpaar stond op van tafel.	An older couple got up from the table.	2.56	
+Fiction_0694	ernst	noun, de(m)	seriousness	De koning is te naïef om de ernst van de situatie in te zien.	The king is too naive to see the gravity of the situation.	1.75	
+Fiction_0695	vergaan	verb	to perish	Op het binnenplein had het geleken alsof de wereld verging.	In the courtyard, it had seemed as if the world was ending.	1.69	
+Fiction_0696	kroeg	noun, de	pub	Ik ging naar de kroeg.	I went to the pub.	1.15	
+Fiction_0697	brok	noun, de/het	piece	Er lagen brokken kalk op de vloer.	There were chunks of lime on the floor.	1.56	
+Fiction_0698	krankzinnig	adj	insane	We hebben een krankzinnig gesprek gehad.	We had an insane conversation.	0.81	
+Fiction_0699	blaffen	verb	to bark	Honden blaffen in de verte.	Dogs bark in the distance.	0.74	
+Fiction_0700	vensterbank	noun, de	windowsill	Valentijn zit op de vensterbank naar de buitenwereld te kijken.	Valentine sits on the windowsill looking out at the outside world.	0.50	
+Fiction_0701	bewustzijn	noun, het	awareness	Ik geef de feiten zoals ze zich in mijn bewustzijn toen afspeelden.	I give the facts as they played out in my consciousness at the time.	1.53	
+Fiction_0702	schuifelen	verb	to shuffle	Ze schuifelen op kousenvoeten door de stad.	They shuffle through the city on stocking feet.	0.53	
+Fiction_0703	gek	noun, de(m)	fool, idiot	Er rijden zoveel gekken rond tegenwoordig.	There are so many crazies driving around these days.	1.62	
+Fiction_0704	cirkel	noun, de(m)	circle	Het kind begint met zijn wijsvinger cirkels op het stoffige raam te tekenen.	The child begins to draw circles on the dusty window with his index finger.	1.57	
+Fiction_0705	kleven	verb	to stick	De vochtige aarde kleeft aan zijn broek.	The damp earth sticks to his pants.	1.44	
+Fiction_0706	urenlang	adj	endless, for hours	Hij houdt van urenlange wandelingen over de heide.	He enjoys hours of walking on the moors.	1.31	
+Fiction_0707	smerig	adj	dirty	Het was een vreselijk smerig hotel.	It was a terribly dirty hotel.	1.18	
+Fiction_0708	knaap	noun, de(m)	boy	Serieus begon ik met de knaap aan de piano mijn plannen te bespreken.	Seriously, I began to discuss my plans with the lad at the piano.	1.10	
+Fiction_0709	duister	noun, het	dark	Langzaam raakten zijn ogen aan het duister gewend.	Slowly his eyes became accustomed to the darkness.	0.91	
+Fiction_0710	wapperen	verb	to blow	Uit alle huizen wapperde de nationale driekleur.	From all the houses the national tricolor was flying.	0.84	
+Fiction_0711	kauwen	verb	to chew	Ik beet er wel eens stukjes af en kauwde er dan een poosje op.	I would sometimes bite off pieces and chew on them for a while.	0.63	
+Fiction_0712	afkeer	noun, de(m)	aversion	Hij kreeg een bij na onoverkomelijke afkeer van de school.	He developed an almost insurmountable dislike for the school.	1.37	
+Fiction_0713	opdat	conj	so that	Hij was bereid haar van alles te geven opdat het haar goed mocht gaan.	He was willing to give her all kinds of things so that she might prosper.	1.68	
+Fiction_0714	ontdoen	verb	to remove, to discard	Mijn vader ontdoet zich van zijn kleren en maakt zich op om te baden.	My father strips off his clothes and prepares to bathe.	1.41	
+Fiction_0715	lepel	noun, de(m)	spoon	De vorken en messen en lepels waren ook van zwaar zilver.	The forks and knives and spoons were also of heavy silver.	0.88	
+Fiction_0716	verlossen	verb	to release, to free	Hij verloste het kind uit zijn hachelijke positie.	He delivered the child from his predicament.	1.96	
+Fiction_0717	Hollands	adj	Dutch	Een stevige Hollandse stamppot is niet te versmaden.	A hearty Dutch stew is not to be sneezed at.	1.88	
+Fiction_0718	zinken	verb	to sink	Een van de schepen is gezonken.	One of the ships sank.	1.25	
+Fiction_0719	oprecht	adj	sincere	Zijn oprechte woorden deden haar goed.	His sincere words did her good.	1.85	
+Fiction_0720	veer	noun, de	a) feather b) spring	a) Boven in de lantaarn lag nog zijn grote warme nest van takken en veren. b) De veer in haar bed springt op.	a) Upstairs in the lantern was still his big warm nest of branches and feathers. b) The feather in her bed jumped up.	1.44	
+Fiction_0721	opschieten	verb	to hurry up	Ik moest opschieten anders zou ik te laat zijn.	I had to hurry or I would be late.	1.01	
+Fiction_0722	aanblik	noun, de(m)	sight	De aanblik van hun spel was aangenaam.	The sight of them playing was pleasing.	0.72	
+Fiction_0723	ernaast	adv	next to it, beside it	Hij zette het kopje op een dienblad en de twee boterhammen op een stapeltje ernaast.	He put the cup on a tray and the two sandwiches on a stack next to it.	1.12	
+Fiction_0724	menigte	noun, de(f)	crowd	Er verscheen plots een grote menigte op het dorpsplein.	A large crowd suddenly appeared in the village square.	1.04	
+Fiction_0725	neuken	verb	to screw	Ikwou gewoon maar even neuken.	I just wanted to get laid.	0.67	
+Fiction_0726	knipperen	verb	to blink	Wat knipperde hij met de oogleden!	How he blinked his eyelids!	0.57	
+Fiction_0727	ergernis	noun, de(f)	annoyance	Coby kon maar met moeite haar ergernis verbergen.	Coby could only with difficulty hide her annoyance.	1.77	
+Fiction_0728	slank	adj	slim	Ik had slanke heupen.	I had slim hips.	1.08	
+Fiction_0729	triomfantelijk	adj	triumphant	Ze keek me met een triomfantelijk lachje aan.	She looked at me with a triumphant smile.	0.68	
+Fiction_0730	rek	noun, het	rack	Hij bleef staan bij het rek.	He remained standing by the rack.	1.47	
+Fiction_0731	vermoeien	verb	to tire (out)	Het vermoeide hem om er elke dag op uit te moeten gaan.	It tired him to have to go out every day.	0.99	
+Fiction_0732	opschrijven	verb	to write down	Ik heb alles opgeschreven wat ik wist.	I wrote down everything I knew.	1.51	
+Fiction_0733	misselijk	adj	sick	Ik werd misselijk van de stank.	The stench made me nauseous.	1.05	
+Fiction_0734	verven	verb	to paint	De deuren waren nog niet geverfd.	The doors had not yet been painted.	1.15	
+Fiction_0735	benauwd	adj	stuffy	Het primitieve huisje was klein en benauwd.	The primitive cottage was small and stuffy.	0.72	
+Fiction_0736	nauwkeurig	adj	accurate	Hij had een dagboek met nauwkeurige observaties bijgehouden.	He had kept a diary of accurate observations.	1.73	
+Fiction_0737	kruk	noun, de	stool	Daarna ging hij op een kruk naast het aanrecht zitten om een boodschappenlijstje op te stellen.	Then he sat down on a stool next to the kitchen counter to draw up a shopping list.	0.66	
+Fiction_0738	hulpeloos	adj	helpless	Ik hief met een hulpeloos gebaar mijn handen in de hoogte.	With a helpless gesture, I raised my hands to the sky.	0.59	
+Fiction_0739	innerlijk	adj	inner	Oscar geeft zich over aan innerlijk hoongelach.	Oscar indulges in inner jeering.	1.32	
+Fiction_0740	eeuwigheid	noun, de(f)	eternity	Het lijkt een eeuwigheid geleden maar toch zie ik haar nu haarscherp voor me.	It seems like an eternity ago yet I see her razor sharp in front of me now.	0.86	
+Fiction_0741	rond, rondje	noun, het	round	Intussen liep Greetje steeds hetzelfde rondje in de tuin. in het rond: Hij keek in het rond, maar zag niemand die hij kende.	"Meanwhile, Greetje was walking the same lap in the garden over and over again. in a circle: He looked around, but didn't see anyone he knew."	3.22	
+Fiction_0742	voorlezen	verb	to read (aloud)	Toen hij ons er een stukje uit voorlas, moesten we alledrie lachen.	When he read us a piece from it, all three of us had to laugh.	1.59	
+Fiction_0743	stampen	verb	to stamp	Ze stampte op de grond en haar lichte ogen zagen zwart van verontwaardiging.	She stomped on the ground and her pale eyes saw black with indignation.	1.48	
+Fiction_0744	deksel	noun, de(m)/het	lid	Op het bed lag een koffer met opengeslagen deksel.	On the bed was a suitcase with the lid flipped open.	1.21	
+Fiction_0745	ditmaal	adv	this time	Met beter materiaal construeerde ik ditmaal een enigszins wendbaar zeil.	With better material this time I constructed a somewhat maneuverable sail.	1.48	
+Fiction_0746	rots	noun, de	rock	Het water was er altijd in beweging door de botsing met de rotsen.	The water was always moving there because of the collision with the rocks.	1.26	
+Fiction_0747	verschuilen (zich)	verb	to hide	Samen met mijn broertje en zusje verschool ik me in een van de slaapkamers.	Together with my little brother and sister, I hid in one of the bedrooms.	1.35	
+Fiction_0748	plooi	noun, de	pleat, crease	Fabienne zuchtte en streek een denkbeeldige plooi in haar lichte jurk plat.	Fabienne sighed and flattened an imaginary crease in her light dress.	1.18	
+Fiction_0749	ofschoon	conj	although	Andries was geslaagd voor zijn eerste jaar ingenieur, ofschoon de studie hem een nachtmerrie was geweest.	Andries had graduated from his first year of engineering, although the study had been a nightmare for him.	0.74	
+Fiction_0750	wreed	adj	cruel	Ik vind het een erg wrede wereld waarin wij leven.	"I think it's a very cruel world we live in."	1.60	
+Fiction_0751	nalaten	verb	a) to refrain from b) to leave	a) Ze kon niet nalaten naar hem te luisteren. b) Hij heeft zijn familie geen bezittingen nagelaten.	a) She could not fail to listen to him. b) He did not leave his family any possessions.	1.69	
+Fiction_0752	gelaat	noun, het	face	Haar gelaat ontspande zich toen ze zag dat hij het meende.	Her countenance relaxed when she saw that he meant it.	0.79	
+Fiction_0753	stuiten	verb	to encounter	Een lange weg tegen de heuvel op en dan stuiten we ineens op een hoge muur.	A long way up the hill and then suddenly we encounter a high wall.	3.29	
+Fiction_0754	gracht	noun, de	canal	Langzaam fietsen de vrouwen langs de gracht.	Slowly, the women cycle along the canal.	1.70	
+Fiction_0755	dominee	noun, de(m)	vicar	‘We zullen er zondag voor bidden,’ beloofde de dominee afwezig.	"'We will pray for it on Sunday,' the pastor promised absently."	1.15	
+Fiction_0756	sla	noun, de	lettuce	Vanmiddag zat er een slak op mijn sla.	This afternoon there was a snail on my lettuce.	0.95	
+Fiction_0757	leegte	noun, de(f)	emptiness	Haar angst vulde de leegte van het huis.	Her fear filled the emptiness of the house.	0.83	
+Fiction_0758	berusten	verb	to resign oneself to	Hij berustte niet bij voorbaat in een nederlaag en bleef aanvallen.	He did not resign himself to defeat in advance and continued to attack.	1.58	
+Fiction_0759	doven	verb	to extinguish	Het licht op het toneel doofde langzaam.	The lights on the stage slowly dimmed.	1.31	
+Fiction_0760	vermoeid	adj	tired	De vermoeide vrouw vroeg om water en iets te eten.	The tired woman asked for water and something to eat.	0.85	
+Fiction_0761	wikkelen	verb	to wrap	Ik wikkelde de schilderijen in dekens.	I wrapped the paintings in blankets.	0.73	
+Fiction_0762	afwezigheid	noun, de(f)	absence	Tijdens mijn afwezigheid paste mijn moeder op mijn kind.	During my absence, my mother looked after my child.	2.81	
+Fiction_0763	dorst	noun, de(m)	thirst	Misschien had hij alleen maar erge dorst.	Perhaps he was just very thirsty.	0.84	
+Fiction_0764	smelten	verb	to melt	Ze hebben het ijs meteen in de diepvriezer gedaan zodat het niet kan smelten.	"They immediately put the ice cream in the freezer so it can't melt."	1.69	
+Fiction_0765	kil	adj	chilly	Na een uur tussen de kille lakens was hij nog steeds niet warm.	After an hour between the chilly sheets, he was still not warm.	1.29	
+Fiction_0766	loeren	verb	to peek	Ik sloop uit bed en loerde door de gordijnen.	I snuck out of bed and lurked through the curtains.	0.81	
+Fiction_0767	verpleegster	noun, de(f)	nurse	Een verpleegster kwam de kamer binnen.	A nurse entered the room.	1.16	
+Fiction_0768	kletsen	verb	to chat	Zij kletst oeverloos en zonder haperen.	She chatters endlessly and without faltering.	1.12	
+Fiction_0769	hullen	verb	to wrap	De duinen waren al in schemer gehuld en de zee verloor alle kleur.	The dunes were already shrouded in dusk and the sea lost all color.	1.05	
+Fiction_0770	hoesten	verb	to cough	De vrouw hoestte en haar wimpers trilden.	The woman coughed and her eyelashes twitched.	0.91	
+Fiction_0771	ongewoon	adj	unusual	In een ongewone tijd gebeurden er nu eenmaal ook ongewone dingen.	Now, in an unusual time, unusual things happened.	1.80	
+Fiction_0772	openstaan	verb	to be open	Ik moet eerlijk toegeven dat ik een deur nog nooit zo ver had zien openstaan.	I have to honestly admit that I had never seen a door open this far before.	1.53	
+Fiction_0773	schrapen	verb	to scrape	Met zijn mes schraapte hij het laatste prakje van zijn bord en bracht het naar zijn mond.	With his knife, he scraped the last mash off his plate and brought it to his mouth.	0.53	
+Fiction_0774	schijn	noun, de(m)	appearance	Het moet schijn zijn geweest, want later was er niets van terug te vinden.	It must have been appearances, because later there was nothing of it.	1.82	
+Fiction_0775	long	noun, de	lung	Diep zoog ik de rook in mijn longen.	Deeply I sucked the smoke into my lungs.	1.54	
+Fiction_0776	verdragen	verb	to bear	Dat zou ik niet kunnen verdragen.	"I couldn't bear that."	1.31	
+Fiction_0777	gebed	noun, het	prayer	Hij had het mutsje dat hij tijdens het gebed droeg, verwisseld voor zijn baret.	He had exchanged the cap he wore during prayer for his beret.	1.10	
+Fiction_0778	eraf	adv	off	Uiteindelijk schoor ze bij na al haar haar eraf en had ze alleen nog een hanenkam over.	In the end, she shaved off almost all her hair and was left with only a cockscomb.	1.46	
+Fiction_0779	roeren	verb	to stir	Hij roerde in zijn koffie.	He stirred in his coffee.	1.31	
+Fiction_0780	aanrecht	noun, de(m)/het	kitchen sink	De afwas van gisteren stond nog op het aanrecht.	"Yesterday's dishes were still on the counter."	0.48	
+Fiction_0781	onderbroek	noun, de	underpants	Ze werken in een rood hemd en een blauwe katoenen onderbroek.	They work in a red shirt and blue cotton underpants.	0.80	
+Fiction_0782	verbeelden (zich)	verb	to imagine	Heb ik me dat dan allemaal verbeeld?	Did I imagine all that?	0.77	
+Fiction_0783	brommen	verb	to mutter	Ik bromde iets en liep naar de slaapkamer.	I hummed something and walked to the bedroom.	0.60	
+Fiction_0784	stam	noun, de(m)	trunk	De takken van de boom hadden niets van doen met de stam.	The branches of the tree had nothing to do with the trunk.	2.07	
+Fiction_0785	riem	noun, de(m)	a) belt b) oar	a) Hij hees zijn broek op en deed zijn riem weer om. b) Hij nam de riemen weer op en maakte zich gereed naar de oever te varen.	a) He lifted his pants and put his belt back on. b) He took up the oars again and prepared to sail to the shore.	1.38	
+Fiction_0786	envelop	noun, de	envelope	Bij de receptie lag een envelop met zijn naam erop.	At the reception desk was an envelope with his name on it.	0.59	
+Fiction_0787	eronder	adv	below	Ze bekijkt de plaatjes en leest wat eronder staat.	She looks at the pictures and reads what is underneath.	1.14	
+Fiction_0788	uitzoeken	verb	to select, to choose	Jaap hielp mij de schilderijen uitzoeken.	Jaap helped me pick out the paintings.	1.86	
+Fiction_0789	flard	noun, de	fragment	Maar daarmee zijn nog niet alle flarden van het verhaal verteld.	"But that doesn't tell all the shreds of the story."	0.80	
+Fiction_0790	geweer	noun, het	gun	Een soldaat demonstreerde de werking van het geweer.	A soldier demonstrated the operation of the rifle.	1.45	
+Fiction_0791	matras	noun, de/het	mattress	In de kamer lagen twee matrassen op de grond.	In the room there were two mattresses on the floor.	0.99	
+Fiction_0792	grijns	noun, de	grin	Hij kwam naar me toe met een brede grijns op zijn gezicht.	He came up to me with a wide grin on his face.	0.69	
+Fiction_0793	verschijning	noun, de(f)	appearance	Friedrich was in al zijn verzorgde eenvoud een verschijning met aristocratische straling.	Friedrich, in all his groomed simplicity, was an appearance with aristocratic radiance.	1.36	
+Fiction_0794	gapen	verb	to yawn	Hij draaide zich op zijn rug en gaapte luidruchtig.	He turned on his back and yawned loudly.	0.91	
+Fiction_0795	erf	noun, het	yard	Ze vloog de deur uit en rende rand op het erf.	She flew out the door and ran edge on into the yard.	0.73	
+Fiction_0796	spuiten	verb	to squirt, to spray	Zo tropisch was de temperatuur dat wagens van de gemeente water spoten over het asfalt.	So tropical was the temperature that cars from the municipality sprayed water over the asphalt.	1.57	
+Fiction_0797	rommel	noun, de(m)	clutter	De rommel op het bureau valt helemaal niet te beschrijven.	The clutter on the desk is not at all describable.	1.31	
+Fiction_0798	woest	adj	fierce	Hij vernielde zijn bouwwerk met snelle woeste gebaren.	He destroyed his edifice with swift ferocious gestures.	1.14	
+Fiction_0799	verdwalen	verb	to get lost	Ze liepen door de stad, niet bang om te verdwalen.	They walked through the city, not afraid to get lost.	1.04	
+Fiction_0800	kuil	noun, de(m)	pit, hole	We groeven een diepe kuil in het zand.	We dug a deep pit in the sand.	0.59	
+Fiction_0801	bejaard	adj	elderly, aged	Op een bank in de hoek sliep een bejaarde man met open mond.	On a couch in the corner, an elderly man slept with his mouth open.	2.16	
+Fiction_0802	verdrinken	verb	to drown	Als je goed kunt zwemmen, zul je hier niet gauw verdrinken.	"If you can swim well, you won't drown here easily."	1.51	
+Fiction_0803	konijn	noun, het	rabbit	De vrouw bewoog haar neus zoals een konijn dat doet.	The woman moved her nose like a rabbit does.	1.49	
+Fiction_0804	heimwee	noun, de/het	homesickness	Hij kon geen nacht van huis zijn zonder heimwee te krijgen.	"He couldn't spend a night away from home without getting homesick."	1.07	
+Fiction_0805	glippen	verb	to slip	Ze schokt op van schrik en meteen glipt het glas uit haar vingers.	She jerks up in fright and immediately the glass slips from her fingers.	0.97	
+Fiction_0806	doodgaan	verb	to die	Ook mijn opa was in de veertig toen hij doodging.	Also my grandfather was in his forties when he died.	0.86	
+Fiction_0807	borrel	noun, de(m)	drink	Zij stelde voor om in een andere gelegenheid een borrel te gaan drinken.	She suggested having a drink in another venue.	0.75	
+Fiction_0808	beker	noun, de(m)	cup	De vrouw zette de beker op tafel en zoog aan het filter van haar sigaret.	The woman set the cup on the table and sucked on the filter of her cigarette.	4.55	
+Fiction_0809	bediende	noun, de	servant, waiter	Sinds onze terugkomst was ik overdag voornamelijk alleen met de bedienden in huis geweest.	Since our return, I had been mostly alone with the servants in the house during the day.	2.12	
+Fiction_0810	hinderen	verb	to impede, to hinder	De weerspiegeling hindert haar niet.	The reflection does not bother her.	1.51	
+Fiction_0811	pest	noun, de	plague	Hij trok een gezicht alsof hij de pest en de cholera op zich af zag komen.	He made a face as if he saw the plague and cholera coming at him.	0.95	
+Fiction_0812	brutaal	adj	cheeky	Je moeder denkt zeker een brutaal mens heeft de halve wereld.	Your mother must think a bold person has half the world.	1.78	
+Fiction_0813	vergissing	noun, de(f)	mistake	Er is een vergissing in het spel.	There is a mistake in the game.	1.53	
+Fiction_0814	krimpen	verb	to shrink	Haar broek is in de was gekrompen.	Her pants shrank in the wash.	1.35	
+Fiction_0815	machteloos	adj	powerless	Ze voelde zich even machteloos als ik.	She felt as powerless as I did.	1.29	
+Fiction_0816	bedwingen	verb	to suppress	De volgende dagen besteedde ik aan het bedwingen van de neiging om haar op te bellen.	I spent the next few days trying to curb the urge to call her.	0.92	
+Fiction_0817	aanraking	noun, de(f)	touch	Mijn lichaam reageerde op elke aanraking.	My body responded to every touch.	1.55	
+Fiction_0818	kerkhof	noun, het	cemetery	Terwijl we het kerkhof verlieten begon het opnieuw te sneeuwen.	As we left the cemetery it began to snow again.	1.50	
+Fiction_0819	niettemin	adv	nevertheless	We voelen een lichte schok, die ons niettemin haast van onze zit werpt.	We feel a slight shock, which nevertheless almost throws us off our seats.	2.95	
+Fiction_0820	intiem	adj	intimate	We gaven antwoord op de intieme vragen die zij ons stelde.	We answered the intimate questions she asked us.	1.69	
+Fiction_0821	stilstand	noun, de(m)	standstill	De trein kwam schokkend tot stilstand op het station.	The train came to a shocking halt at the station.	1.43	
+Fiction_0822	zeep	noun, de	soap	Je bent toch niet bang voor water en zeep.	"You're not afraid of soap and water, are you?"	1.32	
+Fiction_0823	stormen	verb	to be stormy	Het stormde enorm en de regen stroomde uit de hemel.	There was a huge storm and the rain was pouring down from the sky.	1.00	
+Fiction_0824	reusachtig	adj	huge	Beneden in de rivier liggen reusachtige grijze rotsblokken.	Down in the river are giant gray boulders.	1.39	
+Fiction_0825	wippen	verb	to hop	Ze wipte letterlijk op en neer op haar stoel.	She literally rocked up and down on her chair.	0.99	
+Fiction_0826	vork	noun, de	fork	Hij scheen honderden bewerkte lepels en vorken te hebben.	He seemed to have hundreds of carved spoons and forks.	0.85	
+Fiction_0827	janken	verb	to whine	Daarop legde hij zijn kop op tafel en begon te janken.	At that, he put his head on the table and began to whine.	0.76	
+Fiction_0828	golven	verb	to wave, to flow	Ik kwam zo hevig overeind dat het water over de badrand golfde.	I got up so violently that the water rippled over the pool edge.	0.66	
+Fiction_0829	jaloezie	noun, de(f)	a) jealousy b) blind	a) De mannen bekeken hem met een mengeling van bewondering en jaloezie. b) Er ligt gauw voor vijf roebel stro op het dak en die jaloezieën zijn vast nog duurder.	"a) The men looked at him with a mixture of admiration and jealousy. b) There's soon to be five rubles' worth of straw on the roof, and those blinds must be even more expensive."	1.05	
+Fiction_0830	gieren	verb	to scream	De adrenaline gierde door zijn bloed.	Adrenaline was coursing through his blood.	0.70	
+Fiction_0831	rijzen	verb	to rise, to arise	Er rijzen echter een paar bedenkingen.	However, a few concerns arise.	1.92	
+Fiction_0832	verdringen	verb	to push away	Het was een zinloze gedachte die hij snel weer verdrong.	It was a meaningless thought that he quickly repressed.	1.43	
+Fiction_0833	omheen	adv	around	Daar staat een grote ronde tafel waar ze met zijn alien omheen kunnen zitten.	There is a large round table there around which they can sit as an alien.	0.92	
+Fiction_0834	metalen	adj	metal	Hij trok de dikke metalen deur open.	He pulled open the thick metal door.	1.58	
+Fiction_0835	onaangenaam	adj	unpleasant	Dat lijkt me bij deze temperatuur geen onaangenaam karwei.	"That doesn't seem like an unpleasant task at this temperature."	1.01	
+Fiction_0836	prijzen	verb	to praise	Ze prees hem om zijn grote inzet en ijver.	She praised him for his great commitment and diligence.	2.41	
+Fiction_0837	schrift	noun, het	a) writing b) notebook	a) Snel gleden haar ogen over het regelmatige schrift. b) Die avond sloeg hij het schrift open en schreef er zijn naam en de datum in.	a) Quickly her eyes slid over the regular notebook. b) That evening he flipped open the notebook and wrote his name and the date in it.	0.98	
+Fiction_0838	weiland	noun, het	meadow	In het weiland achter de dorpskerk liet een hengst het hoofd hangen.	In the meadow behind the village church, a stallion dropped its head.	0.98	
+Fiction_0839	sleuren	verb	to drag	Joop sleurde de fiets de trap op.	Joop dragged the bike up the stairs.	1.45	
+Fiction_0840	uitlaten	verb	a) to take out b) to express (oneself)	a) De man liet zijn hond uit. b) Hij laat zich er niet over uit wat hij gaat doen in de vakantie.	"a) The man was walking his dog. b) He doesn't let on about what he will do during the vacations."	1.24	
+Fiction_0841	modder	noun, de(m)	mud	Hij rolde als een varken door de modder.	He rolled like a pig through the mud.	1.18	
+Fiction_0842	bleek	adj	pale	Haar bleke lichaam steekt af tegen het zij ne.	Her pale body stands out against the side ne.	0.85	
+Fiction_0843	sjaal	noun, de(m)	scarf	Hij deed mijn sjaal af en hing die zorgvuldig aan de kapstok.	He took off my scarf and carefully hung it on the coat rack.	0.82	
+Fiction_0844	ader	noun, de	vein	Solange voelde het bloed in haar aders borrelen.	Solange felt the blood bubbling in her veins.	0.72	
+Fiction_0845	hoogstens	adv	at the most	Het strand was hoogstens twee kilometer verderop.	The beach was at most two kilometers away.	1.35	
+Fiction_0846	doorzichtig	adj	transparent	Hij had een dunne hais en grote doorzichtige oren.	He had a thin hais and large translucent ears.	1.00	
+Fiction_0847	kinderlijk	adj	childlike	We moesten lachen om het kinderlijke spel waarmee we bezig waren.	We had to laugh at the childish play we were engaged in.	0.73	
+Fiction_0848	prikkelen	verb	a) to stimulate b) to irritate	a) Soms prikkelde hij het denken van zijn vroegere leerling met een milde spot. b) Hij moest haar vooral niet prikkelen en ergeren nu.	a) Sometimes he stimulated the thinking of his former pupil with a mild mockery. b) Above all, he was not to excite and annoy her now.	1.52	
+Fiction_0849	stank	noun, de(m)	bad smell	Ik werd misselijk van de stank.	The stench made me nauseous.	0.79	
+Fiction_0850	bezigheid	noun, de(f)	activity	Journalistiek is de bezigheid die zich toelegt op de verspreiding van wetenswaardigheden uit de samenleving.	Journalism is the occupation dedicated to the dissemination of facts from society.	1.38	
+Fiction_0851	kous	noun, de	stocking	Mijn kousen zijn nat doordat er gaten in mijn klompen zitten.	My stockings are wet because there are holes in my clogs.	0.81	
+Fiction_0852	aankleden	verb	to dress	Ze kan zo uit haar bed stappen en zich wassen en aankleden.	She can get right out of her bed and wash and dress herself.	0.77	
+Fiction_0853	remmen	verb	to brake	Hij remde abrupt en parkeerde naast de telefooncel.	He braked abruptly and parked next to the phone booth.	1.99	
+Fiction_0854	prompt	adj	immediate	Zij willen prompte bediening. (adv) De lift reageerde prompt op hun commando.	They want prompt service. (adv) The elevator responded promptly to their command.	1.90	
+Fiction_0855	flits	noun, de(m)	flash	Toen realiseerde hij zich in een flits dat hij zijn teen nauwelijks meer voelde.	Then, in a flash, he realized that he barely felt his toe anymore.	0.66	
+Fiction_0856	juichen	verb	to cheer	We juichten voor hen wanneer er punten werden gescoord.	We cheered for them when points were scored.	2.13	
+Fiction_0857	achterblijven	verb	to stay behind	We bleven achter om de boterhammen te smeren.	We stayed behind to make the sandwiches.	1.67	
+Fiction_0858	uitgang	noun, de(m)	exit	Met de roltrap gaat hij naar beneden naar de uitgang.	Using the escalator, he goes down to the exit.	0.93	
+Fiction_0859	sussen	verb	to soothe	Ik suste de verhitte gemoederen en gaf een rondje.	I soothed the heated tempers and gave a round of applause.	0.75	
+Fiction_0860	schijnbaar	adj	seeming, apparent	Chantal reageerde met schijnbare onverschilligheid op het nieuws.	Chantal reacted to the news with apparent indifference.	1.57	
+Fiction_0861	oever	noun, de(m)	bank	René stond vaak aan de oever van de beek.	René often stood on the bank of the stream.	1.55	
+Fiction_0862	kooi	noun, de	cage	Hij boog zich voorover en nam de kleine kooi op waarin de witte muis was opgesloten.	He bent down and picked up the small cage in which the white mouse was confined.	1.15	
+Fiction_0863	kalmeren	verb	to calm	Hij ging achter zijn bureau zitten om te kalmeren.	He sat down at his desk to calm down.	0.79	
+Fiction_0864	vaas	noun, de	vase	Ze zette een kop koffie voor zichzelf en deed de bloemen in een vaas.	She made a cup of coffee for herself and put the flowers in a vase.	0.65	
+Fiction_0865	verdrietig	adj	sad	Het verdrietige kind snikt zachtjes.	The sad child sobs softly.	1.05	
+Fiction_0866	boog	noun, de(m)	a) arch b) bend	a) Op de benedenverdieping waren de bogen geheel open en vormden een portiek. b) Met een boog draait het vliegtuig en trekt weer snel omhoog.	a) On the first floor, the arches were completely open and formed a portico. b) With an arc, the plane turns and pulls up again quickly.	0.94	
+Fiction_0867	etalage	noun, de(f)	shop window	Bij de etalage van een winkeltje stopte hij.	At the window of a small store he stopped.	1.15	
+Fiction_0868	verlammen	verb	to paralyse	Alleen haar benen zijn verlamd.	Only her legs are paralyzed.	1.07	
+Fiction_0869	mantel	noun, de(m)	overcoat	Een ober hielp haar in haar mantel.	A waiter helped her into her robe.	0.78	
+Fiction_0870	kameraad	noun, de(m)	comrade	Aan een hond heb je altijd een trouwe kameraad.	To a dog you will always have a faithful companion.	1.30	
+Fiction_0871	schikken	verb	to arrange	Ze schikte het laken over haar schouders.	She arranged the sheet over her shoulders.	1.08	
+Fiction_0872	binnenkant	noun, de(m)	inside	Ze kauwt nadenkend op de binnenkant van haar wangen.	She chews thoughtfully on the inside of her cheeks.	1.07	
+Fiction_0873	handschoen	noun, de	glove	Ondanks de hitte droeg hij grote leren handschoenen.	Despite the heat, he wore large leather gloves.	1.03	
+Fiction_0874	ongemakkelijk	adj	uncomfortable	Ik blijf in die ongemakkelijke houding liggen.	I continue to lie in that uncomfortable position.	0.92	
+Fiction_0875	abrupt	adj	abrupt	Elke abrupte beweging deed pijn.	Every abrupt movement hurt.	0.79	
+Fiction_0876	zwerven	verb	to wander	Tot diep in de nacht zwierf hij door de stad.	Deep into the night he roamed the city.	0.77	
+Fiction_0877	verveling	noun, de(f)	boredom	Na twee uur wachten begon de verveling toe te slaan.	After two hours of waiting, boredom began to set in.	0.88	
+Fiction_0878	vat	noun, het	a) barrel b) grip	a) Naast de schuur stonden vaten met olie. b) Hij ziet eruit alsof de tijd geen vat op hem heeft.	a) Next to the barn were barrels of oil. b) He looks as if time has no hold on him.	2.80	
+Fiction_0879	dagboek	noun, het	diary	Ze hield haar leven lang een dagboek bij.	She kept a journal throughout her life.	1.55	
+Fiction_0880	beschaafd	adj	civilized	Beschaafde mensen eten met mes en vork.	Civilized people eat with knife and fork.	1.12	
+Fiction_0881	dwaas	adj	foolish	Op hetzelfde moment grinnikte ze om haar dwaze gedachten.	At the same time, she chuckled at her foolish thoughts.	0.90	
+Fiction_0882	tevergeefs	adj	in vain	Zijn strijd was tevergeefs.	His struggle was in vain.	1.73	
+Fiction_0883	schotel	noun, de	dish	Ik bestelde een fles champagne en een koude schotel met snacks.	I ordered a bottle of champagne and a cold platter of snacks.	0.75	
+Fiction_0884	aantekening	noun, de(f)	note	Hij haalt een potlood uit zijn broekzak en maakt hier en daar een aantekening bij wat hij leest.	He takes a pencil out of his pocket and makes a note here and there of what he is reading.	0.70	
+Fiction_0885	aankomst	noun, de(f)	arrival	Kort na haar aankomst kwam er een man naar hun tafeltje en vroeg een vuurtje.	Shortly after her arrival, a man came up to their table and asked for a light.	3.42	
+Fiction_0886	bederven	verb	a) to rot b) to spoil	a) Zet het eten in de koelkast voordat het bederft. b) Alleen al het te berde brengen van het onderwerp was voldoende om haar humeur grondig te bederven.	a) Put the food in the refrigerator before it spoils. b) Just bringing up the subject was enough to thoroughly spoil her mood.	0.73	
+Fiction_0887	champagne	noun, de(m)	champagne	Hij haalt twee flessen champagne uit de koelkast.	He takes two bottles of champagne from the refrigerator.	1.80	
+Fiction_0888	zaad	noun, het	seed	De zon moest het zaad rijper maken.	The sun was supposed to make the seed more ripe.	1.48	
+Fiction_0889	ongelovig	adj	disbelieving	Marco had zijn vader ongelovig aangekeken.	Marco had looked at his father in disbelief.	1.12	
+Fiction_0890	tegel	noun, de(m)	tile	Er groeit geen gras tussen de tegels op de patio.	No grass grows between the tiles on the patio.	0.90	
+Fiction_0891	flitsen	verb	to flash	Haar ogen flitsen argwanend heen en weer.	Her eyes flit back and forth suspiciously.	1.37	
+Fiction_0892	nestelen	verb	to nestle	Ze nestelt zich in haar schoot.	She nestles into her lap.	1.18	
+Fiction_0893	doemen	verb	to doom	Bepaalde gerechten waren tot mislukken gedoemd.	Certain dishes were doomed to failure.	1.15	
+Fiction_0894	ritueel	noun, het	ritual	Dit ritueel herhaalde zich elke avond.	This ritual repeated itself every night.	1.38	
+Fiction_0895	omgeven	verb	to surround	De tuin was met een drie meter hoge muur omgeven.	The garden was surrounded with a three-meter-high wall.	1.14	
+Fiction_0896	losmaken	verb	to release, to undo	Ik heb alleen zijn hemd losgemaakt.	I only unbuttoned his shirt.	0.92	
+Fiction_0897	hut	noun, de	hut	Even later zitten we in een piepkleine maar comfortabele en gekoelde hut.	A little later we are in a tiny but comfortable and refrigerated cabin.	0.68	
+Fiction_0898	kostbaar	adj	expensive, valuable	Het is een zeer mooi en kostbaar voorwerp.	It is a very beautiful and precious object.	1.85	
+Fiction_0899	secretaresse	noun, de(f)	(female) secretary	Dan komt een secretaresse ons halen.	Then a secretary comes and gets us.	0.89	
+Fiction_0900	waken	verb	to watch	Zijn broer waakte vannacht bij de ketels.	His brother watched over the kettles overnight.	1.49	
+Fiction_0901	bagage	noun, de(f)	luggage	Je kunt een deel van je bagage bij ons achterlaten.	You can leave some of your luggage with us.	1.11	
+Fiction_0902	worstelen	verb	to struggle	De intellectuelen worstelen met vreselijke problemen.	The intellectuals are struggling with terrible problems.	2.00	
+Fiction_0903	beamen	verb	to endorse	Je kunt het beamen omdat je het allemaal zelf gezien hebt.	"You can agree because you've seen it all for yourself."	1.65	
+Fiction_0904	uitbundig	adj	exuberant	Nog nooit was een lente zo overvloedig en uitbundig in dit land als die laatste zondagavond in mei.	Never was a spring so abundant and lavish in this country as that last Sunday evening in May.	1.31	
+Fiction_0905	vergeefs	adj	vain	Na een paar vergeefse pogingen lukte het.	After a few futile attempts, it worked.	1.04	
+Fiction_0906	glans	noun, de(m)	shine	Ze liet de dames duizelen onder de glans van tientallen modellen.	She had the ladies giddy under the glare of dozens of models.	1.01	
+Fiction_0907	beklimmen	verb	to climb	Vandaag zal hij de helling beklimmen.	Today he will climb the slope.	0.96	
+Fiction_0908	lint	noun, het	ribbon	Op haar hoofd draagt ze een zwart wollen mutsje met twee linten onder de kin vastgestri kt.	On her head she wears a black wool cap with two ribbons tied under the chin.	1.20	
+Fiction_0909	mensheid	noun, de(f)	humankind	Het heeft de mensheid miljoenen jaren gekost eer zij zich tot enkele varianten wist op te werken.	It took humanity millions of years to work its way up to some variants.	1.75	
+Fiction_0910	verontrusten	verb	to worry	Die gedachte verbaast hem niet en verontrust hem evenmin.	This thought neither surprises nor disturbs him.	1.68	
+Fiction_0911	langskomen	verb	to pass by, to come round	Ik bel je om te vragen of je eens bij mij langskomt.	"I'll call you to ask if you'll visit me sometime."	1.28	
+Fiction_0912	achterhoofd	noun, het	back of the head	Alleen een scherpe pijn in het achterhoofd was hem van die nacht bijgebleven.	Only a sharp pain in the back of his head had stayed with him from that night.	1.18	
+Fiction_0913	geruststellen	verb	to reassure	Anna is inmiddels helemaal gerustgesteld.	Anna is now completely reassured.	1.08	
+Fiction_0914	bezweren	verb	to swear	Franklin had hem bezworen dat hij daar niets mee te maken had.	Franklin had sworn to him that he had nothing to do with that.	0.98	
+Fiction_0915	dapper	adj	brave	Wat aardig en dapper van haar om zich het lot van het meisje aan te trekken.	"How kind and brave of her to care about the girl's fate."	1.07	
+Fiction_0916	haard	noun, de(m)	fireplace	Hij keek naar het vuur van de open haard.	He looked at the fire of the fireplace.	0.97	
+Fiction_0917	luidruchtig	adj	noisy	Een luidruchtig groepje jongelui stevende op het podium af.	A noisy group of youngsters strode toward the stage.	0.86	
+Fiction_0918	buitenwereld	noun, de	outside world	Ik bedenk allerlei manieren om de aandacht van de buitenwereld te trekken.	I think of all kinds of ways to attract the attention of the outside world.	1.96	
+Fiction_0919	hoofdpijn	noun, de	headache	Hij heeft nu al een tijdje last van aanvallen van hoofdpijn en duizeligheid.	He has been suffering from attacks of headaches and dizziness for a while now.	1.06	
+Fiction_0920	mopperen	verb	to grumble	De mannen mopperden over de droogte in het dorp waar mijn vader geboren is.	The men grumbled about the drought in the village where my father was born.	0.92	
+Fiction_0921	rekken (zich)	verb	to stretch	Kim stond op en rekte zich ongegeneerd.	Kim stood up and stretched unabashedly.	0.65	
+Fiction_0922	toekijken	verb	to watch	Ik bleef aan een uitstalraam staan toekijken.	I was left standing at a display window watching.	1.18	
+Fiction_0923	ontkomen	verb	to escape	Tussen de bosjes waarin de fazanten zich schuilhouden om aan de jacht te ontkomen hangt vale nevel.	Between the bushes in which the pheasants hide to escape the hunt hangs sallow mist.	1.77	
+Fiction_0924	onrecht	noun, het	injustice	Een democratie is sterk genoeg om zowel onrecht als kritiek te tolereren.	A democracy is strong enough to tolerate both injustice and criticism.	1.35	
+Fiction_0925	onbewust	adj	unconscious	Dat is voor haar een onbewuste handeling.	This is an unconscious act for her.	1.16	
+Fiction_0926	overslaan	verb	to miss (out), to skip	Karin keek toe of er niemand werd overgeslagen.	Karin watched to make sure no one was left out.	1.10	
+Fiction_0927	opstijgen	verb	to rise	Tegelijk voelde ik een golf van warmte in mij opstijgen.	At the same time, I felt a wave of warmth rising within me.	0.88	
+Fiction_0928	aanlopen	verb	to come towards	Van alle kanten kwamen buren aangelopen.	From all sides, neighbors approached.	0.71	
+Fiction_0929	toonbank	noun, de	counter	Op lange rijen toonbanken liggen de meest uiteenlopende waren uitgestald in de grootst denkbare hoeveelheden.	On long rows of counters, a wide variety of goods are displayed in the largest imaginable quantities.	1.07	
+Fiction_0930	scheur	noun, de	crack, tear	Er zat een scheur in het metselwerk van de schoorsteen.	There was a crack in the masonry of the chimney.	1.40	
+Fiction_0931	duif	noun, de	pigeon	De duif verroerde zich niet.	The dove did not move.	1.13	
+Fiction_0932	luchtig	adj	light, airy	Ze droeg een luchtige zomerjurk met korte mouwen.	She wore a breezy short-sleeved summer dress.	0.98	
+Fiction_0933	donderen	verb	to thunder	Buiten dondert het en zien we de bliksem oplichten.	Outside it is thundering and we see lightning flashing.	0.85	
+Fiction_0934	daarboven	adv	above it	De muren waren van de grond tot aan de kozijnen blauw gesaust en daarboven smetteloos wit.	The walls were plastered blue from the ground to the window frames and immaculate white above.	0.77	
+Fiction_0935	handschrift	noun, het	handwriting	Zijn handschrift is hoekig en zwart.	His handwriting is angular and black.	0.77	
+Fiction_0936	wei	noun, de	pasture, field	Er liep waarachtig al een schaap met lammetjes in de wei.	True enough, a sheep and lambs were already walking in the pasture.	1.10	
+Fiction_0937	verzwijgen	verb	to keep silent about, to conceal	We verzwijgen beleefd dat we liever regelrecht naar een hotel zouden willen.	We politely conceal the fact that we would rather go straight to a hotel.	1.03	
+Fiction_0938	ui	noun, de(m)	onion	Er hing een lucht van gebakken uien en sigaretten.	There was an air of fried onions and cigarettes.	0.99	
+Fiction_0939	heden	adv	today	Een oplossing is tot op heden uitgebleven. heden ten dage: Zulke kerels zie je heden ten dage niet meer, met zulke brede borstkassen.	"No solution has been found to date. present day: You don't see guys like that today, with such wide chests."	2.24	
+Fiction_0940	klem	noun, de	trap	Het arme diertje zat vast in de klem.	The poor little animal was stuck in the clamp.	1.17	
+Fiction_0941	broeder	noun, de(m)	brother	Ik kwam overeind en keek de broeder met nauwelijks verholen woede aan.	I got up and looked at the brother with barely concealed anger.	1.07	
+Fiction_0942	rommelen	verb	to rummage, to fiddle	Daarna sloeg ze haar ogen neer en rommelde in haar tas.	Then she lowered her eyes and rummaged in her bag.	0.80	
+Fiction_0943	geschenk	noun, het	gift	De kinderen hebben ons een geschenk willen geven.	The children wanted to give us a gift.	1.66	
+Fiction_0944	applaus	noun, het	applause	Hij werd beloond met een dankbaar applaus.	He was rewarded with grateful applause.	1.47	
+Fiction_0945	duin	noun, het/de	dune	Nog lang was zijn hoofd boven de duinen te zien.	For a long time his head could be seen above the dunes.	1.01	
+Fiction_0946	koppig	adj	stubborn	Ik was koppig, zei hij, en bovendien eigenwijs.	I was stubborn, he said, and stubborn besides.	0.95	
+Fiction_0947	aanvoelen	verb	to feel, to sense	Hij voelt aan dat hij nu beter even niets kan zeggen.	He senses that it is better not to say anything right now.	1.32	
+Fiction_0948	salon	noun, de(m)/het	salon	Het feest wordt voortgezet in de salon.	The party continues in the salon.	1.09	
+Fiction_0949	opengaan	verb	to open	Ik werd wakker toen de deur weer openging.	I woke up when the door opened again.	0.94	
+Fiction_0950	vooruitzicht	noun, het	prospect	Het vooruitzicht een namiddag met haar en haar man door te brengen lokte mij aan.	The prospect of spending an afternoon with her and her husband enticed me.	2.73	
+Fiction_0951	enthousiasme	noun, het	enthusiasm	Met hernieuwd enthousiasme begon ik mijn tas in te pakken.	With renewed enthusiasm, I began to pack my bag.	2.44	
+Fiction_0952	schuilen	verb	to shelter, to hide	Onder een grote boom schuilen ze voor de regen.	Under a large tree they shelter from the rain.	1.90	
+Fiction_0953	schaars	adj	scarce	Het publiek was schaars.	The audience was sparse.	1.70	
+Fiction_0954	elegant	adj	elegant	Overal vrouwen met doeken en zelfs een elegante hoed met veren.	Women everywhere with cloths and even an elegant hat with feathers.	1.13	
+Fiction_0955	oceaan	noun, de(m)	ocean	Ze bleven dobberen op de golven van de oceaan.	They continued to float on the waves of the ocean.	2.23	
+Fiction_0956	vurig	adj	fiery	Ze meed de vurige blikvan Marco.	She avoids the fiery gaze of Marco.	1.02	
+Fiction_0957	muts	noun, de	hat	Ik droeg in die tijd altijd een muts om mooi naar school te gaan.	In those days I always wore a hat to go to school nicely.	0.72	
+Fiction_0958	daglicht	noun, het	daylight	Bij daglicht ziet het er toch net even gezelliger uit.	It does look just a bit cozier in daylight.	1.21	
+Fiction_0959	rotzooi	noun, de	junk	Het water was inmiddels een stuk helderder en er dreef geen rotzooi meer rond.	By now, the water was a lot clearer and there was no garbage floating around.	0.73	
+Fiction_0960	non	noun, de(f)	nun	De andere non was nu in de kapel.	The other nun was now in the chapel.	1.29	
+Fiction_0961	schoonmaken	verb	to clean	Ze moesten in hun eigen tijd de machines schoonmaken en repareren.	They had to clean and repair the machines on their own time.	1.26	
+Fiction_0962	bespeuren	verb	to sense, to find	Evenmin waren herten of de anders toch talrijke eekhoorns te bespeuren geweest.	Nor had deer or the otherwise numerous squirrels been spotted.	1.07	
+Fiction_0963	pistool	noun, het	pistol	Een hele tijd geleden was het alweer dat ik het pistool in handen had gehad.	It had been quite a while since I had held the gun in my hands.	1.46	
+Fiction_0964	voorbijganger	noun, de(m)	passer-by	Op straat keken voorbijgangers mij aan.	On the street, passersby looked at me.	1.41	
+Fiction_0965	lunch	noun, de(m)	lunch	ledereen geniet zichtbaar van de lunch en van het uitzicht op het park.	Everyone visibly enjoys the lunch and the view of the park.	1.29	
+Fiction_0966	vermoeidheid	noun, de(f)	fatigue	Alle vermoeidheid van de afgelopen dag was verdwenen.	All the fatigue of the past day had disappeared.	1.00	
+Fiction_0967	pal	adv	directly	Vrouw en familie stonden pal achter me.	Wife and family were right behind me.	1.30	
+Fiction_0968	voornaam	noun, de(m)	first name	Het was de eerste keer dat ze mij bij mijn voornaam noemde.	It was the first time she called me by my first name.	1.04	
+Fiction_0969	schuldgevoel	noun, het	feeling of guilt	Marinka probeerde haar over haar schuldgevoelens heen te helpen.	Marinka tried to help her get over her guilt.	0.96	
+Fiction_0970	thans	adv	at present, now	Wat ze thans ervoer was een bijzondere ervaring.	What she was currently experiencing was an extraordinary experience.	1.78	
+Fiction_0971	dierbaar	adj	dear	Ik keek naar de dierbare gezichten op de foto.	I looked at the precious faces in the photo.	0.93	
+Fiction_0972	barst	noun, de	crack	Er zit een barst in de vaas.	There is a crack in the vase.	0.91	
+Fiction_0973	naaien	verb	to sew	Ze naaide een jurkje van rood katoen.	She sewed a dress of red cotton.	0.77	
+Fiction_0974	mankeren	verb	to be wrong	Hij vroeg of mij iets mankeerde.	He asked if anything was wrong with me.	0.75	
+Fiction_0975	verstrijken	verb	to go by	De dagen verstreken zonder dat ik ook maar één stap buiten de deur durfde te zetten.	The days passed without me daring to take a single step outside the door.	1.09	
+Fiction_0976	knappen	verb	to crack	Hij hoort het montuur knappen, een van de glazen ligt eruit.	He hears the frame snap, one of the lenses is out.	0.94	
+Fiction_0977	decor	noun, het	décor, setting	Het contrast met het donkere decor werd met de minuut scherper.	The contrast with the dark backdrop became sharper by the minute.	2.36	
+Fiction_0978	chef	noun, de(m)	manager	Die ochtend bemoeide de chef zich er verder niet meer mee.	That morning the chief did not interfere further.	2.15	
+Fiction_0979	vanachter	adv	from behind	De meeste passagiers zijn binnen en bekijken de elementen vanachter het veilige glas.	Most passengers are inside, viewing the elements from behind the safe glass.	0.74	
+Fiction_0980	Japans	adj	Japanese	De stad is het toonbeeld van Japanse organisatie en zin voor evenwicht.	The city is the epitome of Japanese organization and sense of balance.	3.03	
+Fiction_0981	stoet	noun, de(m)	procession	Bij de eerste huizen op de heuvel hield de stoet stil.	At the first houses on the hill, the procession stopped.	1.45	
+Fiction_0982	overzien	verb	to overlook	Van hieruit kan hij naar voren en naar achteren de cabine overzien.	From here he can oversee the cabin to the front and back.	0.83	
+Fiction_0983	instemmen	verb	to agree	Na lang aarzelen heb ik ermee ingestemd.	After much hesitation, I agreed.	1.94	
+Fiction_0984	hardnekkig	adj	persistent	Hij bleef hardnekkige koorts houden. (adv) Karim bleef hardnekkig bij zijn plannen.	He continued to have a persistent fever. (adv) Karim persisted in his plans.	1.62	
+Fiction_0985	diner	noun, het	dinner	Men drinkt hier niets dan wijn en bij het diner krijg je een liter per persoon.	People here drink nothing but wine and at dinner you get a liter per person.	1.07	
+Fiction_0986	observeren	verb	to observe	Elk diertje observeert ze met grote belangstelling.	Each little animal she observes with great interest.	0.97	
+Fiction_0987	parfum	noun, de(m)/het	perfume	Ze liet een sluier van parfum achter.	She left behind a veil of perfume.	0.94	
+Fiction_0988	rugzak	noun, de(m)	backpack	Haar rugzak en het tentje stonden naast haar op de stoep.	Her backpack and the little tent were next to her on the sidewalk.	1.12	
+Fiction_0989	opperen	verb	to put forward	Goldfaden had afgezegd zonder zelfs de mogelijkheid van een nieuwe afspraak te opperen.	Goldfaden had cancelled without even raising the possibility of a new appointment.	1.60	
+Fiction_0990	betonnen	adj	concrete	Op de betonnen vloer stonden wat lege flessen.	On the concrete floor were some empty bottles.	1.44	
+Fiction_0991	waanzinnig	adj	mad	Het is een waanzinnige toestand.	It is an insane state of affairs.	1.10	
+Fiction_0992	naald	noun, de	needle	Het viel nog niet mee om de draad in de naald te krijgen.	It was still not easy to get the thread into the needle.	0.94	
+Fiction_0993	feestelijk	adj	festive	Het werd een feestelijk etentje.	It turned into a festive dinner.	1.94	
+Fiction_0994	helm	noun, de(m)	helmet	Met zijn helm in de ene hand en zwaaiend met de andere loopt hij naar de deur.	Holding his helmet in one hand and waving the other, he walks to the door.	0.92	
+Fiction_0995	lul	noun, de(m)	dick	In zijn ene hand had hij een sigaret, met de andere trok hij aan zijn lul.	In one hand he had a cigarette, with the other he pulled on his cock.	0.60	
+Fiction_0996	ouderlijk	adj	parental	Mijn ouderlijk huis is onlangs verkocht en mijn ouders wonen nu in een appartement in dezelfde buurt.	"My parents' house was recently sold and my parents now live in an apartment in the same neighborhood."	1.16	
+Fiction_0997	inpakken	verb	to pack (up)	Het meisje pakte het cadeautje netjes in.	The girl wrapped the present neatly.	1.05	
+Fiction_0998	eruitzien	verb	to look (like)	De kamer ziet eruit alsof er vannacht een flink feest aan de gang is geweest.	The room looks like there was quite a party going on last night.	0.60	
+Fiction_0999	verontwaardiging	noun, de(f)	outrage, indignation	Beide keren is hij bleek van verontwaardiging thuis gekomen na deze behandeling.	Both times he came home pale with indignation after this treatment.	1.37	
+Fiction_1000	voornemen	noun, het	intention	Heb jij nog goede voornemens voor het nieuwe jaar?	"Do you have any New Year's resolutions?"	1.69	
+Fiction_1001	masker	noun, het	mask	Zijn gezicht was een marmeren masker waarvan geen enkele emotie af te lezen was.	His face was a marble mask from which no emotion could be read.	0.96	
+Fiction_1002	achtervolgen	verb	to chase	Hij rende wat vooruit en de anderen achtervolgden hem.	He ran a little ahead and the others chased him.	2.10	
+Fiction_1003	fluit	noun, de	flute	Kees sloeg de deur achter zich dicht en schoof het koffertje met zijn fluit zacht onder het bed.	Kees slammed the door behind him and gently slid the case containing his flute under the bed.	0.82	
+Fiction_1004	opbergen	verb	to store	Zijn fiets werd in een donker hok opgeborgen.	His bicycle was stored in a dark loft.	1.05	
+Fiction_1005	kater	noun, de(m)	tomcat	In de verte zag hij nog net de grote zwarte kater wegrennen.	In the distance, he just saw the big black male running away.	1.02	
+Fiction_1006	asfalt	noun, het	asphalt	De banden van de auto trokken een kaarsrecht spoor op het glimmende asfalt.	"The car's tires drew a dead straight line on the shiny asphalt."	1.26	
+Fiction_1007	baksteen	noun, de(m)/het	brick	Ze maakten duizenden bakstenen voor de nieuwbouw.	They made thousands of bricks for the new building.	0.95	
+Fiction_1008	overgeven	verb	a) to surrender b) to vomit	a) Zijn strijd was tevergeefs, maar zich overgeven kon hij niet. b) Ze voelde zich misselijk alsof ze ieder moment moest overgeven.	a) His struggle was in vain, but he could not surrender. b) She felt nauseous as if she had to vomit at any moment.	0.90	
+Fiction_1009	nabijheid	noun, de(f)	proximity	De leerling maakt van de nabijheid van de leraar gebruik om veel te leren.	"The student takes advantage of the teacher's proximity to learn a lot."	1.06	
+Fiction_1010	krom	adj	crooked, curved	Ik teken het huis met wat kromme lijnen.	I draw the house with some crooked lines.	0.85	
+Fiction_1011	beek	noun, de	stream	Snel en vriendelijk vloeit het water van een kleine beek.	Quickly and kindly the water of a small stream flows.	1.15	
+Fiction_1012	uitstappen	verb	to get off	Het stationnetje waar ik uitstapte was net zo idyllisch gelegen als ik me had voorgesteld.	The little station where I got off was just as idyllically located as I had imagined.	0.86	
+Fiction_1013	mild	adj	mild	Zij verkocht de kaartjes en ze keek daarbij op een milde manier ironisch.	She sold the tickets, and she looked mildly ironic as she did so.	1.97	
+Fiction_1014	vandoor	adv	off, away	De kater gaat er vandoor en de duiven vluchten hun hok in.	The tomcat takes off and the pigeons flee into their loft.	1.64	
+Fiction_1015	fotograaf	noun, de(m)	photographer	De fotograaf stelde zijn toestel scherp en drukte af.	The photographer focused his camera and printed.	2.30	
+Fiction_1016	teruggaan	verb	to return	Ze had zin om nog iets te ondernemen voor ze naar het hotel terugging.	She felt like doing something more before returning to the hotel.	0.98	
+Fiction_1017	balk	noun, de(m)	beam	Hij tastte naar een zaklantaarn die ergens tussen de balken stond en knipte hem aan.	He groped for a flashlight that was somewhere among the beams and snapped it on.	1.03	
+Fiction_1018	ladder	noun, de	ladder	Lowie legde een vinger op zijn mond en begon behoedzaam de ladder te beklimmen.	Lowie put a finger to his mouth and cautiously began to climb the ladder.	0.89	
+Fiction_1019	voltrekken	verb	to take place	Het is een ontwikkeling die zich heel geleidelijk voltrekt.	It is a development that takes place very gradually.	1.20	
+Fiction_1020	interieur	noun, het	interior	De warm verlichte interieurs van de omliggende huizen gaven mij een licht weemoedig gevoel.	The warmly lit interiors of the surrounding houses gave me a slightly wistful feeling.	1.67	
+Fiction_1021	wieg	noun, de	cradle, cot	Telkens lag er bij jullie thuis weer een kindje in de wieg.	Each time there was a baby in the crib at your house.	1.09	
+Fiction_1022	halfjaar	noun, het	six months, half a year	Na een halfjaar kende zij eigenlijk nog steeds alleen mij.	After six months, she actually still only knew me.	1.53	
+Fiction_1023	veroorloven (zich)	verb	to permit	Ik veroorloof me een grappige opmerking, maar dat waardeert ze niet echt.	"I afford a funny comment, but she doesn't really appreciate it."	1.53	
+Fiction_1024	onschuld	noun, de	innocence	De man probeerde zijn onschuld te bewijzen.	The man tried to prove his innocence.	1.29	
+Fiction_1025	melodie	noun, de(f)	melody	De melodie bleef de hele dag in zijn hoofd hangen.	The melody stuck in his head all day.	1.04	
+Fiction_1026	klaarmaken	verb	to prepare	Ze had mijn lievelingsgerecht klaargemaakt.	She had prepared my favorite dish.	1.00	
+Fiction_1027	inslaan	verb	to take	We bespraken welk pad we zouden inslaan.	We discussed which path we would take.	1.74	
+Fiction_1028	vertragen	verb	to slow down	Sander vertraagde zijn pas.	Sander slowed his stride.	1.58	
+Fiction_1029	eromheen	adv	around it	Wij wandelen over het grasveld met de statige bomen eromheen.	We walk across the lawn with the stately trees surrounding it.	0.61	
+Fiction_1030	nakijken	verb	to watch, to follow	De boot heb ik zo lang mogelijk door mijn verrekijker nagekeken.	I checked the boat through my binoculars for as long as I could.	1.21	
+Fiction_1031	resoluut	adj	resolute	Met een resolute beweging duwt zij haar dochter terug op haar stoel.	With a resolute motion, she pushes her daughter back into her seat.	1.43	
+Fiction_1032	schommelen	verb	to swing	Het bordje schommelde aan een ketting voor de trap naar de stuurhut.	The sign was swinging on a chain in front of the stairs to the wheelhouse.	1.20	
+Fiction_1033	neerkomen	verb	to come down	Ze tilde de hamer boven haar hoofd en liet hem met kracht op het blok neerkomen.	She lifted the hammer above her head and let it come down on the block with force.	1.08	
+Fiction_1034	tragisch	adj	tragic	Er was niets tragisch aan deze zaak.	There was nothing tragic about this case.	1.51	
+Fiction_1035	zondagmiddag	noun, de(m)	Sunday afternoon	Het was een stralende zondagmiddag.	It was a bright Sunday afternoon.	1.27	
+Fiction_1036	speels	adj	playful	Ze geeft hem een speelse klap tegen zijn hoofd.	She gives him a playful slap to the head.	1.19	
+Fiction_1037	charme	noun, de(m)	charm	Haar charmes braken bij hem alle weerstand.	Her charms broke all resistance in him.	1.19	
+Fiction_1038	voorkant	noun, de(m)	front	De sloot aan de voorkant was ondiep en droog.	The ditch in front was shallow and dry.	0.87	
+Fiction_1039	halt	noun, de/het	stop	Van tijd tot tijd hield ik even halt om het dier wat water en brood te geven.	From time to time I stopped to give the animal some water and bread.	1.37	
+Fiction_1040	mysterieus	adj	mysterious	Ze veroverde alle jongens met haar mysterieuze glimlach.	She conquered all boys with her mysterious smile.	1.58	
+Fiction_1041	moeiteloos	adj	effortless	Zij volgde moeiteloos twee studies en slaagde voor alle tentamens.	She effortlessly pursued two studies and passed all exams.	1.31	
+Fiction_1042	zakenman	noun, de(m)	businessman	Hij was een zakenman die in een deftige buurt van de stad woonde.	He was a businessman who lived in a posh part of town.	2.43	
+Fiction_1043	driemaal	adv	three times	De klokken voor de hoogmis hadden al driemaal geluid.	The bells for high mass had already rung three times.	1.61	
+Fiction_1044	nutteloos	adj	useless	Een nutteloze en zinloze ballast van het geheugen?	A useless and pointless ballast of memory?	1.32	
+Fiction_1045	serveren	verb	to serve	De ober serveerde de drankjes.	The waiter served the drinks.	2.37	
+Fiction_1046	parkeerplaats	noun, de	car park, parking space	Ik parkeerde mijn bus voorbij de parkeerplaats.	I parked my bus past the parking lot.	2.21	
+Fiction_1047	kei	noun, de(m)	cobble(-stone)	De wind blaast bladeren over de stoffige keien.	The wind blows leaves over the dusty cobbles.	1.27	
+Fiction_1048	atelier	noun, het	studio	De vrouw verdwijnt voor enkele weken in het atelier van de schilder.	"The woman disappears into the painter's studio for several weeks."	1.54	
+Fiction_1049	portefeuille	noun, de(m)	wallet	De man haalde zijn portefeuille te voorschijn en gaf mij een bankbiljet.	The man took out his wallet and handed me a banknote.	2.68	
+Fiction_1050	hoede	noun, de	guard	Hij zei: ‘Wees op je hoede’.	"He said, ""Be on your guard."	1.46	
+Fiction_1051	verzoenen (zich)	verb	to reconcile	Dan had hij ook nog sproeten en daar kon hij zich niet mee verzoenen.	"Then he also had freckles and he couldn't reconcile with that."	1.28	
+Fiction_1052	afwachting	noun, de(f)	expectation	In afwachting van de koffie stond ze op om naar het toilet te gaan.	While waiting for the coffee, she got up to go to the bathroom.	2.17	
+Fiction_1053	plezierig	adj	pleasant	Het was verder een plezierige avond.	It was otherwise an enjoyable evening.	0.81	
+Fiction_1054	opzettelijk	adj	deliberate	Sabotage is een opzettelijke actie met als doel de positie van een vijand te verzwakken.	"Sabotage is a deliberate action for the purpose of weakening an enemy's position."	1.45	
+Fiction_1055	fotograferen	verb	to photograph	Greet wou gefotografeerd worden terwijl zij in de hangmat lag.	Greet wanted to be photographed lying in the hammock.	1.41	
+Fiction_1056	almaar	adv	constantly, all the time	Het was almaar kouder geworden.	It had been getting colder and colder.	2.10	
+Fiction_1057	knallen	verb	to pop, to bang	Een commandant knalt met zijn zweep in de lucht.	A commander pops his whip in the air.	2.76	
+Fiction_1058	trots	noun, de(m)	pride	Hij zwol op van trots.	He swelled with pride.	1.51	
+Fiction_1059	cynisch	adj	cynical	Maarten staart er naar terwijl een cynisch lachje om zijn mond glijdt.	Martin stares at it as a cynical smile slips around his mouth.	1.40	
+Fiction_1060	handvol	noun, de	handful	Hij gooide een handvol gras in mijn gezicht.	He threw a handful of grass in my face.	1.48	
+Fiction_1061	mijden	verb	to avoid	René meed haar zoveel hij kon.	René meed her as much as he could.	1.18	
+Fiction_1062	opdagen	verb	to turn up	Ze kwamen soms opeens niet opdagen.	They would sometimes suddenly not show up.	1.75	
+Fiction_1063	binnenstad	noun, de	town centre	Zonder ons te haasten liepen we de binnenstad in.	Without rushing, we walked downtown.	2.19	
+Fiction_1064	tempel	noun, de(m)	temple	In de grote steden van China wordt aan de buitenlandse bezoeker door zijn gids meestal één tempel getoond.	In the major cities of China, the foreign visitor is usually shown one temple by his guide.	1.24	
+Fiction_1065	beroven	verb	to rob	De dochter had hem beroofd van een zoon voor het bedrijf.	The daughter had robbed him of a son for the company.	1.75	
+Fiction_1066	meedelen	verb	to announce	Reinhard begreep niet waarom zijn vader hem dat wilde meedelen.	Reinhard did not understand why his father wanted to inform him of this.	1.64	
+Fiction_1067	gaaf	adj	a) intact b) great	a) Het was een stilleven met een blauwe fies en ernaast een schedel met onderkaak en een gaaf gebit. b) Wat een gaaf orgel, wat een juweel.	a) It was a still life with a blue frieze and next to it a skull with a lower jaw and a pair of flawless teeth. b) What a cool organ, what a jewel.	0.79	
+Fiction_1068	allerminst	adv	not in the least	Ze voelde allerminst neiging tot een nieuw huwelijk.	She felt no inclination at all to marry again.	1.67	
+Fiction_1069	achterlijk	adj	backward	Wat een achterlijke idioot was ik weer geweest!	What a retarded idiot I had been again!	1.20	
+Fiction_1070	beklagen	verb	to pity	Ze kijkt hem vol medelijden aan en beklaagt hem. zich beklagen: De ene dag beklaagt zij zich over haar man, de andere dag deugt haar zoon niet.	She looks at him full of pity and complains to him. complain: One day she complains about her husband, the next day her son is not virtuous.	2.12	
+Fiction_1071	maandenlang	adj	for months	Na maandenlange afwezigheid stond hij ineens weer voor onze neus.	After months of absence, he was suddenly back in front of us.	1.48	
+Fiction_1072	levend	adj	living, alive	Hij is het levende bewijs dat je alles kunt als je het maar probeert.	He is living proof that you can do anything if you just try.	1.24	
+Fiction_1073	daarstraks	adv	just now	Terug in de auto miste hij het plezier van daarstraks.	Back in the car, he missed the fun of earlier.	0.42	
+Fiction_1074	verteren	verb	to digest	Mijn broer beweerde dat hij de spijzen voelde verteren in zijn maag.	My brother claimed that he felt the food digesting in his stomach.	1.28	
+Fiction_1075	jeugdig	adj	youthful	Het jeugdige gezelschap bestaat uit drie personen!	The youthful company consists of three people!	1.49	
+Fiction_1076	ertussen	adv	in between	De bedjes stonden in rijen met enkel stoelen ertussen.	The beds were in rows with only chairs in between.	0.60	
+Fiction_1077	kok	noun, de(m)	cook	Alleen een zeer bekwaam kok kan de vis zo klaarmaken dat hij ongevaarlijk is voor de eter.	Only a highly skilled cook can prepare the fish so that it is harmless to the eater.	1.27	
+Fiction_1078	warenhuis	noun, het	department store	Hij helpt haar de papieren zakken met de inkopen uit het warenhuis naar binnen dragen.	He helps her carry the paper bags with the purchases from the department store inside.	1.37	
+Fiction_1079	slaaf	noun, de(m)	slave	Ik wil van niemand de slaaf zijn.	"I don't want to be the slave of anyone."	1.21	
+Fiction_1080	handtas	noun, de	handbag	Alice haalde uit haar handtas een lepel te voorschijn en groef een kuiltje.	Alice took out a spoon from her handbag and dug a hole.	1.48	
+Fiction_1081	genaamd	adj	called	Het mannetje genaamd Fons is mij blijven achtervolgen.	The male named Fons has continued to haunt me.	1.34	
+Fiction_1082	lullig	adj	silly	Hij maakte een lullige opmerking.	He made an asshole remark.	0.55	
+Fiction_1083	ontevreden	adj	dissatisfied	Rond zijn mond lag een ontevreden trek.	Around his mouth was a disgruntled pull.	1.64	
+Fiction_1084	eender	adj	(the) same	Alle dagen zijn zo precies eender.	All the days are so exactly the same.	1.15	

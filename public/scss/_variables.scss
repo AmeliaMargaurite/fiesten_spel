@@ -1,0 +1,22 @@
+:root {
+	--base-h: 140;
+
+	--dark-main-background-color: var(--base-h), 10%, 10%;
+	--dark-main-text-color: var(--base-h), 10%, 90%;
+
+	&[color-mode="dark"] {
+		--main-background-color: var(--dark-main-background-color);
+		--main-text-color: var(--dark-main-text-color);
+	}
+
+	@media (prefers-color-scheme: dark) {
+		--main-background-color: var(--dark-main-background-color);
+		--main-text-color: var(--dark-main-text-color);
+	}
+
+	&,
+	&[color-mode="light"] {
+		--main-background-color: var(--base-h), 10%, 90%;
+		--main-text-color: var(--base-h), 10%, 10%;
+	}
+}

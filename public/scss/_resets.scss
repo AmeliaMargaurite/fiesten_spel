@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	box-sizing: border-box;
+	-webkit-text-size-adjust: none;
+	text-size-adjust: none;
+	position: relative;
+	font-family: system-ui, "Apple Color Emoji", "Segoe UI Emoji",
+		"Segoe UI Symbol", "Noto Color Emoji";
+	min-height: 100%;
+	font-size: 0.625rem;
+}
+
+body {
+	position: relative;
+	min-height: 100vh;
+	font-size: 1.8rem;
+	line-height: 1.5;
+}
+
+input,
+textarea,
+button {
+	font-size: inherit;
+	font-family: inherit;
+}

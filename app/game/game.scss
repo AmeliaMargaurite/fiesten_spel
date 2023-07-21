@@ -1,0 +1,40 @@
+.game {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	overflow: hidden;
+	grid-auto-rows: 100vh;
+
+	.answer {
+		position: fixed;
+		background: hsl(var(--base-h), 50%, 20%);
+		color: hsl(var(--base-h), 90%, 90%);
+		width: 100%;
+		right: 0;
+		left: 0;
+		top: 0;
+		min-height: 1.5em;
+		text-align: center;
+		font-size: 3.2rem;
+
+		.guess {
+			text-transform: uppercase;
+		}
+	}
+
+	dialog {
+		position: fixed;
+		display: grid;
+		justify-content: center;
+		align-items: center;
+		width: 30vw;
+		height: 50vh;
+		background: hsl(var(--base-h), 20%, 60%, 0.9);
+		margin: 25vh 35vw;
+	}
+
+	.next-btn {
+		padding: 3.2rem;
+		appearance: none;
+		border: unset;
+	}
+}
