@@ -6,5 +6,5 @@
 	height: var(--bike-size);
 	grid-column: 3;
 	grid-row: 1;
-	margin-bottom: calc(var(--bike-size) / 2);
+	margin-bottom: calc(var(--bike-size) * 2);
 }

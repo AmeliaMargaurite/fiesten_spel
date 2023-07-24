@@ -18,6 +18,7 @@ export const getGameLetters = (answer: string, cols: number, rows: number) => {
 
 	for (let i = 0; count < numNeeded; i++) {
 		const letter = letterKeys[i];
+		console.log(answer);
 		const countInAnswer =
 			answerArr.filter((l) => l.toLowerCase() === letter.toLowerCase())
 				.length ?? 0;

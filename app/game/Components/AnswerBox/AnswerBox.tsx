@@ -1,7 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
-import { items } from "../../Components/answer";
+// import { items } from "../../Components/answer";
+import { words as items } from "../../Components/fd-fiction-words";
+
 import { ItemType } from "../../page";
 
 const MAX_ROUND_NUM = items.length - 1;

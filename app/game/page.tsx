@@ -6,11 +6,10 @@ import { Bike } from "./Components/Bike/Bike";
 import { COLUMN_MAX, COLUMN_MIN } from "./constants";
 import { AnswerBox } from "./Components/AnswerBox/AnswerBox";
 import { getGameLetters } from "./getGameLetters";
-import { items } from "./Components/answer";
+// import { items } from "./Components/answer";
+import { words as items } from "./Components/fd-fiction-words";
 
 const cols = 5;
-const rows = 30;
-const MAX_TIME = rows + 10;
 const MAX_ROUND_NUM = items.length - 1;
 
 export type ItemType = { question: string; answer: string };
@@ -26,6 +25,7 @@ export default function Page() {
 	const [item, setItem] = useState<ItemType | null>(null);
 	const [allLetters, setAllLetters] = useState<string[][] | null>(null);
 	const [currentLetter, setCurrentLetter] = useState<string | null>(null);
+	const [maxTime, setMaxTime] = useState<number>(0);
 
 	const vehicleRef = useRef(null);
 	const lanesRef = useRef(null);
@@ -35,7 +35,14 @@ export default function Page() {
 		vehicle: null,
 	});
 
-	const _statusRef = { gameOver, playerWon, restartGame, count, round };
+	const _statusRef = {
+		gameOver,
+		playerWon,
+		restartGame,
+		count,
+		round,
+		maxTime,
+	};
 	const statusRef = useRef(_statusRef);
 	statusRef.current = _statusRef;
 
@@ -54,6 +61,8 @@ export default function Page() {
 	}, [count]);
 
 	const getAllLetters = useCallback((item: ItemType) => {
+		const rows = item.answer.length * 10 + 10;
+
 		return getGameLetters(item.answer, cols, rows);
 	}, []);
 
@@ -85,6 +94,7 @@ export default function Page() {
 		setRoundOver(false);
 		setPlayerWon(false);
 		setAllLetters(getAllLetters(items[round]));
+		setMaxTime(items[round].answer.length * 10 + 10);
 	}, [round]);
 
 	const handleRestartClick = useCallback(() => {
@@ -95,9 +105,17 @@ export default function Page() {
 	}, []);
 
 	useEffect(() => {
-		const { playerWon } = statusRef.current;
-		const interval = setInterval(() => setCount(count + 1), 300);
-		const ranOutOfTime = count >= MAX_TIME;
+		const { playerWon, maxTime } = statusRef.current;
+		const interval = setInterval(() => setCount(count + 1), 500);
+		if (!item) {
+			setItem(items[0]);
+			setMaxTime(items[0].answer.length * 10 + 10);
+		}
+		console.log({ maxTime, item });
+		// const MAX_TIME = item ? item.answer.length * 5 : items[0].answer.length * 5;
+		const ranOutOfTime =
+			count >= (maxTime ? maxTime : items[0].answer.length * 10 + 10);
+		console.log({ ranOutOfTime, maxTime });
 
 		if (ranOutOfTime || playerWon) {
 			clearInterval(interval);
@@ -109,7 +127,6 @@ export default function Page() {
 			setCurrentLetter(getCurrentLetter());
 		}
 
-		if (!item) setItem(items[0]);
 		return () => {
 			clearInterval(interval);
 		};

@@ -29,7 +29,7 @@
 			border-radius: 0.8rem;
 
 			&:nth-child(9) {
-				background: pink;
+				// background: pink;
 			}
 			&:not(:empty) {
 				border: 1px solid hsl(var(--base-h), 20%, 70%);
